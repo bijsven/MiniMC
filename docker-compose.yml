@@ -10,6 +10,9 @@ services:
       - ./minecraft:/root/minecraft # mount the minecraft dir to /minecraft
     networks:
       - minecraft-net
+    environment:
+      - username=changeme
+      - password=changemetoo
     deploy:
       resources:
         limits:
