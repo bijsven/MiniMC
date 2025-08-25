@@ -56,7 +56,7 @@ docker compose exec -it minimc /bin/bash
 ```
 6. Then run:
 ```bash
-ssh -R 25565:localhost:25565 -R 443:localhost:8080 serveo.net
+ssh -R 25565:localhost:25565 -R 80:localhost:8080 serveo.net
 ```
 7. Use the urls to access your MiniMC instant. Enjoy!
 
