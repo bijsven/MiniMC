@@ -49,7 +49,16 @@ docker-compose up
 
 4. Access the web interface via `http://localhost:8080` and manage your server easily.
 
----
+##### Recommended: Use [Serveo](https://serveo.net/)
+5. Enter your host terminal and type:
+```bash
+docker compose exec -it minimc /bin/bash
+```
+6. Then run:
+```bash
+ssh -R 25565:localhost:25565 -R 443:localhost:8080 serveo.net
+```
+7. Use the urls to access your MiniMC instant. Enjoy!
 
 #### Usage Notes
 
@@ -57,7 +66,6 @@ docker-compose up
 * Use the terminal commands (`start`, `stop`, `kill`) to control the server.
 * All server data is persistent inside the `/minecraft` folder, so you can safely restart or update the container.
 
----
 
 #### License
 
