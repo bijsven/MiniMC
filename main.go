@@ -152,22 +152,57 @@ func commandHandler(c echo.Context) error {
 		log.Println("[i] Server killed")
 	case "stats":
 		memUsed, memTotal := uint64(0), uint64(0)
-		if data, err := os.ReadFile("/sys/fs/cgroup/memory/memory.usage_in_bytes"); err == nil {
-			if used, err := strconv.ParseUint(strings.TrimSpace(string(data)), 10, 64); err == nil {
-				memUsed = used / 1024 / 1024
+		memPaths := []struct{ usage, limit string }{
+			{"/sys/fs/cgroup/memory.current", "/sys/fs/cgroup/memory.max"},
+			{"/sys/fs/cgroup/memory/memory.usage_in_bytes", "/sys/fs/cgroup/memory/memory.limit_in_bytes"},
+		}
+
+		for _, p := range memPaths {
+			if data, err := os.ReadFile(p.usage); err == nil {
+				if used, err := strconv.ParseUint(strings.TrimSpace(string(data)), 10, 64); err == nil {
+					memUsed = used / 1024 / 1024
+				}
+			}
+			if data, err := os.ReadFile(p.limit); err == nil {
+				text := strings.TrimSpace(string(data))
+				if text == "max" {
+					memTotal = 0
+				} else if limit, err := strconv.ParseUint(text, 10, 64); err == nil {
+					memTotal = limit / 1024 / 1024
+				}
+			}
+			if memUsed != 0 && memTotal != 0 {
+				break
 			}
 		}
 
-		if data, err := os.ReadFile("/sys/fs/cgroup/memory/memory.limit_in_bytes"); err == nil {
-			if limit, err := strconv.ParseUint(strings.TrimSpace(string(data)), 10, 64); err == nil {
-				memTotal = limit / 1024 / 1024
-			}
-		}
-
-		cpuPercent := float64(0)
-		if data, err := os.ReadFile("/sys/fs/cgroup/cpu/cpuacct.usage"); err == nil {
-			if _, err := strconv.ParseUint(strings.TrimSpace(string(data)), 10, 64); err == nil {
-				cpuPercent = 0
+		cpuPercent := 0.0
+		cpuStatPath := "/sys/fs/cgroup/cpu.stat"
+		if data, err := os.ReadFile(cpuStatPath); err == nil {
+			lines := strings.Split(string(data), "\n")
+			for _, line := range lines {
+				if strings.HasPrefix(line, "usage_usec") {
+					parts := strings.Fields(line)
+					if len(parts) == 2 {
+						if usageMicro, err := strconv.ParseUint(parts[1], 10, 64); err == nil {
+							time.Sleep(100 * time.Millisecond)
+							if data2, err := os.ReadFile(cpuStatPath); err == nil {
+								lines2 := strings.Split(string(data2), "\n")
+								for _, l2 := range lines2 {
+									if strings.HasPrefix(l2, "usage_usec") {
+										parts2 := strings.Fields(l2)
+										if len(parts2) == 2 {
+											if usage2, err := strconv.ParseUint(parts2[1], 10, 64); err == nil {
+												delta := usage2 - usageMicro
+												cpuPercent = float64(delta) / 1000.0 / 100.0
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
 			}
 		}
 
