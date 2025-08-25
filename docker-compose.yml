@@ -7,7 +7,7 @@ services:
       - "25565:22565" # expose the default mc port for connections to the server
     restart: unless-stopped
     volumes:
-      - ./server:/minecraft # mount the minecraft dir to /minecraft
+      - ./minecraft:/root/minecraft # mount the minecraft dir to /minecraft
     networks:
       - minecraft-net
     deploy:
