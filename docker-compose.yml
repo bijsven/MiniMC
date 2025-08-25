@@ -1,6 +1,8 @@
 services:
-  MiniMC:
-    build: default.Dockerfile
+  minimc:
+    build:
+      context: .
+      dockerfile: default.Dockerfile
     container_name: MiniMC
     ports:
       - "8000:8080" # expose port 8000 to open the web ui
