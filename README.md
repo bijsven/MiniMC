@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./client/src/lib/assets/favicon.png" alt="Favicon" />
+  <img src="icon.png" alt="Favicon" />
 
 ## MiniMC
 

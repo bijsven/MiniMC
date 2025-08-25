@@ -11,11 +11,14 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"runtime"
 	"strings"
 	"time"
 
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
+	"github.com/shirou/gopsutil/cpu"
+	"github.com/shirou/gopsutil/disk"
 	"pkg.bijsven.nl/MiniMC/pkg"
 	"pkg.bijsven.nl/MiniMC/pkg/server"
 )
@@ -148,6 +151,24 @@ func commandHandler(c echo.Context) error {
 			return c.NoContent(http.StatusInternalServerError)
 		}
 		log.Println("[i] Server killed")
+	case "stats":
+		var m runtime.MemStats
+		runtime.ReadMemStats(&m)
+		memUsageMB := m.Alloc / 1024 / 1024
+		memTotalMB := m.Sys / 1024 / 1024
+
+		cpuPercent, err := cpu.Percent(0, false)
+		if err != nil || len(cpuPercent) == 0 {
+			cpuPercent = []float64{0}
+		}
+
+		diskStat, err := disk.Usage(".")
+		if err != nil {
+			log.Println("[e] Failed to get disk usage:", err)
+		}
+
+		log.Printf("[i] Stats — CPU: %.2f%%, Memory: %d/%d MB, Disk: %.2f%% used (%d/%d MB)",
+			cpuPercent[0], memUsageMB, memTotalMB, diskStat.UsedPercent, diskStat.Used/1024/1024, diskStat.Total/1024/1024)
 	default:
 		if err := server.RunCommand(cmd); err != nil {
 			return c.NoContent(http.StatusInternalServerError)
