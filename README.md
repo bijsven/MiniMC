@@ -56,8 +56,7 @@ docker compose exec -it minimc /bin/bash
 ```
 6. Then run:
 ```bash
-nohup ssh -T -R 80:localhost:8080 serveo.net > serveo.log 2>&1 &
-tail -f serveo.log
+ssh -T -R 80:localhost:8080 serveo.net
 ```
 7. Use the url to access your MiniMC web instant.
 8. Then, to make your minecraft server easily accessable I recommand you use [playit.gg's plugin](https://playit.gg/download/plugins)
