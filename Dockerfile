@@ -21,7 +21,7 @@ RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o MiniMC .
 FROM alpine:latest
 WORKDIR /root/
 
-RUN apk add openjdk21 ssh bash curl
+RUN apk add --no-cache openjdk21 openssh bash curl
 
 COPY --from=go-build /app/MiniMC ./
 COPY --from=go-build /app/client/build ./client/build
