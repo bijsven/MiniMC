@@ -1,0 +1,21 @@
+services:
+  MiniMC:
+    build: .
+    container_name: MiniMC
+    ports:
+      - "8000:8080" # expose port 8000 to open the web ui
+      - "25565:22565" # expose the default mc port for connections to the server
+    restart: unless-stopped
+    volumes:
+      - ./server:/minecraft # mount the minecraft dir to /minecraft
+    networks:
+      - minecraft-net
+    deploy:
+      resources:
+        limits:
+          memory: 8g # 8GiB memory
+          cpus: "4.0" # 400% or 4 cores
+
+networks:
+  minecraft-net:
+    driver: bridge
