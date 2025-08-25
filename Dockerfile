@@ -7,7 +7,6 @@ RUN npm i
 COPY client/ ./
 RUN npm run build
 
-
 FROM golang:1.23-alpine AS go-build
 WORKDIR /app
 
@@ -23,12 +22,14 @@ RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o MiniMC .
 FROM alpine:latest
 WORKDIR /root/
 
+RUN apk add --no-cache openjdk21
+
 COPY --from=go-build /app/MiniMC ./
 COPY --from=go-build /app/client/build ./client/build
 
-# exposes minecraft
+# Exposes Minecraft
 EXPOSE 25565
-# exposes web portal
+# Exposes web portal
 EXPOSE 8080
 
 CMD ["./MiniMC"]
