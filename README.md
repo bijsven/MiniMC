@@ -52,11 +52,7 @@ docker-compose up
 ##### Recommended: Make your web server available
 5. Enter your host terminal and type:
 ```bash
-docker compose exec -it minimc /bin/bash
-```
-6. Then run:
-```bash
-ssh -T -R 80:localhost:8080 nokey@localhost.run
+docker compose exec -it minimc ssh -T -R 80:localhost:8080 nokey@localhost.run
 ```
 7. Use the url to access your MiniMC web instant.
 8. Then, to make your minecraft server easily accessable I recommand you use [playit.gg's plugin](https://playit.gg/download/plugins)
