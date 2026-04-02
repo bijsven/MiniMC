@@ -88,77 +88,30 @@ func (s *Server) startInternal() error {
 	s.mu.Lock()
 	defer s.mu.Unlock()
 
-	go func() {
-		if s == nil || s.cmd == nil {
-			return
-		}
-
-		err := s.cmd.Wait()
-		if err != nil {
-			log.Println("[e] Server process exited with error:", err)
-		}
-
-		s.mu.Lock()
-		s.isRunning = false
-
-		if s.done != nil {
-			select {
-			case <-s.done:
-			default:
-				close(s.done)
-			}
-		}
-		s.mu.Unlock()
-
-		serverMu.Lock()
-		if activeServer == s {
-			activeServer = nil
-		}
-		serverMu.Unlock()
-	}()
-
-	if s.isRunning {
-		log.Println("[e] Server is already running!")
-		return errors.New("server is already running")
-	}
-
 	s.cmd = exec.Command("java",
-		"-Xms2G",
-		"-Xmx4G",
-		"-XX:+UseG1GC",
-		"-XX:+ParallelRefProcEnabled",
-		"-XX:+UnlockExperimentalVMOptions",
-		"-XX:+DisableExplicitGC",
-		"-XX:+AlwaysPreTouch",
-		"-XX:G1HeapWastePercent=5",
-		"-XX:G1MixedGCCountTarget=4",
-		"-XX:MaxGCPauseMillis=50",
-		"-XX:G1NewSizePercent=30",
-		"-XX:G1MaxNewSizePercent=40",
-		"-XX:G1HeapRegionSize=8M",
-		"-XX:+PerfDisableSharedMem",
-		"-XX:MaxDirectMemorySize=1G",
-		"-jar",
-		"server.jar",
-		"nogui",
+	    "-Xms2G",
+	    "-Xmx4G",
+	    "-XX:+UseG1GC",
+	    "-XX:+ParallelRefProcEnabled",
+	    "-XX:+UnlockExperimentalVMOptions",
+	    "-XX:+DisableExplicitGC",
+	    "-XX:+AlwaysPreTouch",
+	    "-XX:G1HeapWastePercent=5",
+	    "-XX:G1MixedGCCountTarget=4",
+	    "-XX:MaxGCPauseMillis=50",
+	    "-XX:G1NewSizePercent=30",
+	    "-XX:G1MaxNewSizePercent=40",
+	    "-XX:G1HeapRegionSize=8M",
+	    "-XX:+PerfDisableSharedMem",
+	    "-XX:MaxDirectMemorySize=1G",
+	    "-jar", "server.jar",
+	    "nogui",
 	)
 	s.cmd.Dir = "minecraft"
 
-	stdoutPipe, err := s.cmd.StdoutPipe()
-	if err != nil {
-		log.Println("[e] Failed to get stdout pipe:", err)
-		return err
-	}
-	stderrPipe, err := s.cmd.StderrPipe()
-	if err != nil {
-		log.Println("[e] Failed to get stderr pipe:", err)
-		return err
-	}
-	stdinPipe, err := s.cmd.StdinPipe()
-	if err != nil {
-		log.Println("[e] Failed to get stdin pipe:", err)
-		return err
-	}
+	stdoutPipe, _ := s.cmd.StdoutPipe()
+	stderrPipe, _ := s.cmd.StderrPipe()
+	stdinPipe, _ := s.cmd.StdinPipe()
 
 	if err := s.cmd.Start(); err != nil {
 		log.Println("[e] Failed to start server process:", err)
@@ -171,21 +124,30 @@ func (s *Server) startInternal() error {
 	go s.pipeAndLog(stderrPipe, "[g] ")
 
 	go func() {
-		for cmd := range s.stdin {
-			_, _ = stdinPipe.Write([]byte(cmd + "\n"))
-		}
-	}()
+		go func() {
+			for cmd := range s.stdin {
+				if !s.GetStatus() {
+					return
+				}
+				_, _ = stdinPipe.Write([]byte(cmd + "\n"))
+			}
+		}()
 
-	go func() {
-		s.cmd.Wait()
+		err := s.cmd.Wait()
+		if err != nil {
+			log.Println("[e] Server exited with error:", err)
+		}
+
 		s.mu.Lock()
-		defer s.mu.Unlock()
 		s.isRunning = false
 		close(s.done)
+		s.mu.Unlock()
 
 		serverMu.Lock()
 		activeServer = nil
 		serverMu.Unlock()
+
+		log.Println("[i] Server process cleanup finished.")
 	}()
 
 	return nil
