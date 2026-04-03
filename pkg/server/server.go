@@ -5,9 +5,12 @@ import (
 	"errors"
 	"io"
 	"log"
+	"os"
 	"os/exec"
+	"path/filepath"
 	"strings"
 	"sync"
+	"time"
 )
 
 var (
@@ -28,10 +31,14 @@ func Start() error {
 	serverMu.Lock()
 	defer serverMu.Unlock()
 
-	if activeServer != nil {
-		if activeServer.GetStatus() {
-			return ErrServerExists
-		}
+	if activeServer != nil && activeServer.GetStatus() {
+		return ErrServerExists
+	}
+
+	lockPath := filepath.Join("minecraft", "world", "session.lock")
+	if _, err := os.Stat(lockPath); err == nil {
+		log.Println("[i] Found stale session.lock, removing...")
+		os.Remove(lockPath)
 	}
 
 	s := &Server{
@@ -94,11 +101,9 @@ func GetStatus() bool {
 	return s.GetStatus()
 }
 
-
 func (s *Server) startInternal() error {
 	s.cmd = exec.Command("java",
-		"-Xms2G",
-		"-Xmx4G",
+		"-Xms2G", "-Xmx4G",
 		"-XX:+UseG1GC",
 		"-XX:+ParallelRefProcEnabled",
 		"-XX:+UnlockExperimentalVMOptions",
@@ -130,19 +135,30 @@ func (s *Server) startInternal() error {
 	s.isRunning = true
 	s.mu.Unlock()
 
-	go s.pipeAndLog(stdoutPipe, "[g] ")
-	go s.pipeAndLog(stderrPipe, "[g] ")
+	// WaitGroup om te zorgen dat alle output is gelezen voor we afsluiten
+	var wg sync.WaitGroup
+	wg.Add(2)
 
+	go s.pipeAndLog(stdoutPipe, "[g] ", &wg)
+	go s.pipeAndLog(stderrPipe, "[g] ", &wg)
+
+	// Verbeterde STDIN handler
 	go func() {
-		for cmd := range s.stdin {
-			_, err := io.WriteString(stdinPipe, cmd+"\n")
-			if err != nil {
-				log.Println("[e] Failed to write to stdin:", err)
+		defer stdinPipe.Close()
+		for {
+			select {
+			case cmd, ok := <-s.stdin:
+				if !ok {
+					return
+				}
+				io.WriteString(stdinPipe, cmd+"\n")
+			case <-s.done:
 				return
 			}
 		}
 	}()
 
+	// Proces monitor
 	go func() {
 		err := s.cmd.Wait()
 		if err != nil {
@@ -153,6 +169,9 @@ func (s *Server) startInternal() error {
 		s.isRunning = false
 		close(s.done)
 		s.mu.Unlock()
+
+		// Wacht tot de pipes leeg zijn
+		wg.Wait()
 
 		serverMu.Lock()
 		if activeServer == s {
@@ -184,6 +203,16 @@ func (s *Server) RunCommand(cmd string) error {
 
 	select {
 	case s.stdin <- cmd:
+		// Als het command "stop" is, sluiten we de stdin kanaal na een korte delay
+		if cmd == "stop" {
+			go func() {
+				time.Sleep(2 * time.Second)
+				s.mu.Lock()
+				// We sluiten het kanaal niet handmatig hier,
+				// dat doet de done-goroutine
+				s.mu.Unlock()
+			}()
+		}
 		return nil
 	default:
 		return errors.New("command queue full")
@@ -196,14 +225,12 @@ func (s *Server) GetStatus() bool {
 	return s.isRunning
 }
 
-func (s *Server) pipeAndLog(pipeReader io.ReadCloser, prefix string) {
+func (s *Server) pipeAndLog(pipeReader io.ReadCloser, prefix string, wg *sync.WaitGroup) {
+	defer wg.Done()
 	defer pipeReader.Close()
 	scanner := bufio.NewScanner(pipeReader)
 	for scanner.Scan() {
 		text := scanner.Text()
 		log.Println(prefix, text)
-		if strings.Contains(text, "[MoonriseCommon] Awaiting termination of I/O pool") {
-			log.Println("[i] Server shutdown signal detected!")
-		}
 	}
 }
