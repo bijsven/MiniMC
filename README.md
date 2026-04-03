@@ -15,6 +15,7 @@ MiniMC is a **simple, self-contained Minecraft server manager** with a built-in 
 * Start your server by typing `start` in the terminal.
 * Stop it with `stop`.
 * If it crashes, use `kill`.
+* Get the stats via `stats`
 * Includes a **web-based file manager**, accessible via `/files` in the terminal.
 
 
@@ -62,8 +63,8 @@ docker compose exec -it minimc ssh -T -R 80:localhost:8080 nokey@localhost.run
 #### Usage Notes
 
 * MiniMC **auto-updates** the PaperMC server jar whenever restarted.
-* Use the terminal commands (`start`, `stop`, `kill`) to control the server.
-* All server data is persistent inside the `/minecraft` folder, so you can safely restart or update the container.
+* Use the terminal commands (`start`, `stop`, `kill`, `stats`) to control the server.
+* All server data is persistent inside the `/minecraft` folder, so you can safely restart or update the container. (as long as you use the original docker compose file)
 
 
 #### License
