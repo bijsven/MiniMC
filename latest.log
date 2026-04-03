@@ -1,1778 +1,0 @@
-[i] mkdir /minecraft
-[i] get latest version
-[i] using version 1.21.11
-[i] get latest build
-[i] get download info for build 69
-[i] downloading paper-1.21.11-69.jar
-[i] downloading: 0.02 MB done, 0.23 MB/s
-[i] downloading: 0.03 MB done, 0.31 MB/s
-[i] downloading: 0.05 MB done, 0.47 MB/s
-[i] downloading: 0.06 MB done, 0.62 MB/s
-[i] downloading: 0.08 MB done, 0.78 MB/s
-[i] downloading: 0.08 MB done, 0.78 MB/s
-[i] downloading: 0.09 MB done, 0.94 MB/s
-[i] downloading: 0.11 MB done, 1.09 MB/s
-[i] downloading: 0.12 MB done, 1.25 MB/s
-[i] downloading: 0.14 MB done, 1.41 MB/s
-[i] downloading: 0.14 MB done, 1.41 MB/s
-[i] downloading: 0.16 MB done, 1.56 MB/s
-[i] downloading: 0.17 MB done, 1.72 MB/s
-[i] downloading: 0.19 MB done, 1.88 MB/s
-[i] downloading: 0.20 MB done, 2.03 MB/s
-[i] downloading: 0.22 MB done, 2.19 MB/s
-[i] downloading: 0.23 MB done, 2.34 MB/s
-[i] downloading: 0.25 MB done, 2.50 MB/s
-[i] downloading: 0.27 MB done, 2.66 MB/s
-[i] downloading: 0.27 MB done, 2.66 MB/s
-[i] downloading: 0.28 MB done, 2.81 MB/s
-[i] downloading: 0.30 MB done, 2.97 MB/s
-[i] downloading: 0.31 MB done, 3.12 MB/s
-[i] downloading: 0.33 MB done, 3.28 MB/s
-[i] downloading: 0.34 MB done, 3.44 MB/s
-[i] downloading: 0.36 MB done, 3.59 MB/s
-[i] downloading: 0.38 MB done, 3.75 MB/s
-[i] downloading: 0.39 MB done, 3.91 MB/s
-[i] downloading: 0.41 MB done, 4.06 MB/s
-[i] downloading: 0.44 MB done, 3.93 MB/s
-[i] downloading: 0.47 MB done, 4.21 MB/s
-[i] downloading: 0.50 MB done, 4.18 MB/s
-[i] downloading: 0.53 MB done, 4.44 MB/s
-[i] downloading: 0.55 MB done, 4.59 MB/s
-[i] downloading: 0.56 MB done, 4.41 MB/s
-[i] downloading: 0.59 MB done, 4.15 MB/s
-[i] downloading: 0.62 MB done, 4.20 MB/s
-[i] downloading: 0.66 MB done, 4.41 MB/s
-[i] downloading: 0.69 MB done, 4.40 MB/s
-[i] downloading: 0.72 MB done, 4.54 MB/s
-[i] downloading: 0.75 MB done, 4.32 MB/s
-[i] downloading: 0.78 MB done, 4.50 MB/s
-[i] downloading: 0.81 MB done, 4.43 MB/s
-[i] downloading: 0.84 MB done, 4.55 MB/s
-[i] downloading: 0.88 MB done, 4.44 MB/s
-[i] downloading: 0.91 MB done, 4.41 MB/s
-[i] downloading: 0.94 MB done, 4.40 MB/s
-[i] downloading: 0.97 MB done, 4.40 MB/s
-[i] downloading: 1.00 MB done, 4.41 MB/s
-[i] downloading: 1.03 MB done, 4.35 MB/s
-[i] downloading: 1.06 MB done, 4.32 MB/s
-[i] downloading: 1.09 MB done, 4.40 MB/s
-[i] downloading: 1.12 MB done, 4.25 MB/s
-[i] downloading: 1.16 MB done, 4.30 MB/s
-[i] downloading: 1.18 MB done, 4.37 MB/s
-[i] downloading: 1.19 MB done, 4.36 MB/s
-[i] downloading: 1.22 MB done, 4.40 MB/s
-[i] downloading: 1.25 MB done, 4.30 MB/s
-[i] downloading: 1.28 MB done, 4.15 MB/s
-[i] downloading: 1.31 MB done, 4.25 MB/s
-[i] downloading: 1.34 MB done, 4.19 MB/s
-[i] downloading: 1.38 MB done, 4.29 MB/s
-[i] downloading: 1.41 MB done, 4.35 MB/s
-[i] downloading: 1.44 MB done, 4.41 MB/s
-[i] downloading: 1.47 MB done, 4.25 MB/s
-[i] downloading: 1.50 MB done, 4.34 MB/s
-[i] downloading: 1.53 MB done, 4.42 MB/s
-[i] downloading: 1.56 MB done, 4.41 MB/s
-[i] downloading: 1.59 MB done, 4.31 MB/s
-[i] downloading: 1.62 MB done, 4.40 MB/s
-[i] downloading: 1.66 MB done, 4.43 MB/s
-[i] downloading: 1.69 MB done, 4.43 MB/s
-[i] downloading: 1.72 MB done, 4.35 MB/s
-[i] downloading: 1.75 MB done, 4.34 MB/s
-[i] downloading: 1.78 MB done, 4.41 MB/s
-[i] downloading: 1.80 MB done, 4.41 MB/s
-[i] downloading: 1.81 MB done, 4.44 MB/s
-[i] downloading: 1.84 MB done, 4.44 MB/s
-[i] downloading: 1.88 MB done, 4.45 MB/s
-[i] downloading: 1.91 MB done, 4.52 MB/s
-[i] downloading: 1.94 MB done, 4.38 MB/s
-[i] downloading: 1.97 MB done, 4.42 MB/s
-[i] downloading: 2.00 MB done, 4.47 MB/s
-[i] downloading: 2.03 MB done, 4.47 MB/s
-[i] downloading: 2.06 MB done, 4.45 MB/s
-[i] downloading: 2.09 MB done, 4.45 MB/s
-[i] downloading: 2.12 MB done, 4.49 MB/s
-[i] downloading: 2.16 MB done, 4.52 MB/s
-[i] downloading: 2.19 MB done, 4.45 MB/s
-[i] downloading: 2.22 MB done, 4.47 MB/s
-[i] downloading: 2.25 MB done, 4.52 MB/s
-[i] downloading: 2.28 MB done, 4.49 MB/s
-[i] downloading: 2.31 MB done, 4.48 MB/s
-[i] downloading: 2.34 MB done, 4.51 MB/s
-[i] downloading: 2.38 MB done, 4.52 MB/s
-[i] downloading: 2.41 MB done, 4.55 MB/s
-[i] downloading: 2.44 MB done, 4.56 MB/s
-[i] downloading: 2.47 MB done, 4.54 MB/s
-[i] downloading: 2.50 MB done, 4.57 MB/s
-[i] downloading: 2.53 MB done, 4.60 MB/s
-[i] downloading: 2.56 MB done, 4.52 MB/s
-[i] downloading: 2.59 MB done, 4.57 MB/s
-[i] downloading: 2.62 MB done, 4.57 MB/s
-[i] downloading: 2.66 MB done, 4.56 MB/s
-[i] downloading: 2.69 MB done, 4.61 MB/s
-[i] downloading: 2.72 MB done, 4.64 MB/s
-[i] downloading: 2.75 MB done, 4.65 MB/s
-[i] downloading: 2.78 MB done, 4.66 MB/s
-[i] downloading: 2.81 MB done, 4.68 MB/s
-[i] downloading: 2.84 MB done, 4.65 MB/s
-[i] downloading: 2.88 MB done, 4.70 MB/s
-[i] downloading: 2.91 MB done, 4.71 MB/s
-[i] downloading: 2.94 MB done, 4.71 MB/s
-[i] downloading: 2.97 MB done, 4.73 MB/s
-[i] downloading: 3.00 MB done, 4.71 MB/s
-[i] downloading: 3.03 MB done, 4.66 MB/s
-[i] downloading: 3.05 MB done, 4.69 MB/s
-[i] downloading: 3.06 MB done, 4.71 MB/s
-[i] downloading: 3.09 MB done, 4.70 MB/s
-[i] downloading: 3.12 MB done, 4.73 MB/s
-[i] downloading: 3.16 MB done, 4.61 MB/s
-[i] downloading: 3.19 MB done, 4.65 MB/s
-[i] downloading: 3.22 MB done, 4.70 MB/s
-[i] downloading: 3.25 MB done, 4.71 MB/s
-[i] downloading: 3.28 MB done, 4.71 MB/s
-[i] downloading: 3.31 MB done, 4.75 MB/s
-[i] downloading: 3.34 MB done, 4.75 MB/s
-[i] downloading: 3.38 MB done, 4.79 MB/s
-[i] downloading: 3.41 MB done, 4.72 MB/s
-[i] downloading: 3.44 MB done, 4.76 MB/s
-[i] downloading: 3.47 MB done, 4.78 MB/s
-[i] downloading: 3.50 MB done, 4.79 MB/s
-[i] downloading: 3.53 MB done, 4.81 MB/s
-[i] downloading: 3.56 MB done, 4.75 MB/s
-[i] downloading: 3.59 MB done, 4.75 MB/s
-[i] downloading: 3.62 MB done, 4.76 MB/s
-[i] downloading: 3.66 MB done, 4.66 MB/s
-[i] downloading: 3.68 MB done, 4.68 MB/s
-[i] downloading: 3.69 MB done, 4.69 MB/s
-[i] downloading: 3.72 MB done, 4.62 MB/s
-[i] downloading: 3.75 MB done, 4.66 MB/s
-[i] downloading: 3.78 MB done, 4.68 MB/s
-[i] downloading: 3.81 MB done, 4.71 MB/s
-[i] downloading: 3.84 MB done, 4.73 MB/s
-[i] downloading: 3.88 MB done, 4.71 MB/s
-[i] downloading: 3.91 MB done, 4.71 MB/s
-[i] downloading: 3.94 MB done, 4.75 MB/s
-[i] downloading: 3.97 MB done, 4.76 MB/s
-[i] downloading: 4.00 MB done, 4.80 MB/s
-[i] downloading: 4.03 MB done, 4.81 MB/s
-[i] downloading: 4.06 MB done, 4.78 MB/s
-[i] downloading: 4.09 MB done, 4.80 MB/s
-[i] downloading: 4.12 MB done, 4.79 MB/s
-[i] downloading: 4.16 MB done, 4.82 MB/s
-[i] downloading: 4.19 MB done, 4.82 MB/s
-[i] downloading: 4.22 MB done, 4.86 MB/s
-[i] downloading: 4.25 MB done, 4.82 MB/s
-[i] downloading: 4.28 MB done, 4.84 MB/s
-[i] downloading: 4.30 MB done, 4.83 MB/s
-[i] downloading: 4.31 MB done, 4.85 MB/s
-[i] downloading: 4.34 MB done, 4.88 MB/s
-[i] downloading: 4.38 MB done, 4.85 MB/s
-[i] downloading: 4.41 MB done, 4.88 MB/s
-[i] downloading: 4.44 MB done, 4.89 MB/s
-[i] downloading: 4.47 MB done, 4.85 MB/s
-[i] downloading: 4.50 MB done, 4.88 MB/s
-[i] downloading: 4.53 MB done, 4.91 MB/s
-[i] downloading: 4.56 MB done, 4.88 MB/s
-[i] downloading: 4.59 MB done, 4.87 MB/s
-[i] downloading: 4.62 MB done, 4.91 MB/s
-[i] downloading: 4.66 MB done, 4.87 MB/s
-[i] downloading: 4.69 MB done, 4.89 MB/s
-[i] downloading: 4.72 MB done, 4.89 MB/s
-[i] downloading: 4.75 MB done, 4.92 MB/s
-[i] downloading: 4.78 MB done, 4.94 MB/s
-[i] downloading: 4.81 MB done, 4.96 MB/s
-[i] downloading: 4.84 MB done, 4.93 MB/s
-[i] downloading: 4.88 MB done, 4.94 MB/s
-[i] downloading: 4.91 MB done, 4.97 MB/s
-[i] downloading: 4.93 MB done, 4.96 MB/s
-[i] downloading: 4.94 MB done, 4.97 MB/s
-[i] downloading: 4.97 MB done, 4.99 MB/s
-[i] downloading: 5.00 MB done, 4.97 MB/s
-[i] downloading: 5.03 MB done, 5.00 MB/s
-[i] downloading: 5.06 MB done, 4.94 MB/s
-[i] downloading: 5.09 MB done, 4.97 MB/s
-[i] downloading: 5.12 MB done, 4.93 MB/s
-[i] downloading: 5.16 MB done, 4.93 MB/s
-[i] downloading: 5.19 MB done, 4.96 MB/s
-[i] downloading: 5.22 MB done, 4.94 MB/s
-[i] downloading: 5.25 MB done, 4.94 MB/s
-[i] downloading: 5.28 MB done, 4.97 MB/s
-[i] downloading: 5.31 MB done, 4.97 MB/s
-[i] downloading: 5.34 MB done, 4.97 MB/s
-[i] downloading: 5.38 MB done, 4.95 MB/s
-[i] downloading: 5.41 MB done, 4.97 MB/s
-[i] downloading: 5.44 MB done, 5.00 MB/s
-[i] downloading: 5.47 MB done, 5.00 MB/s
-[i] downloading: 5.50 MB done, 5.03 MB/s
-[i] downloading: 5.53 MB done, 5.03 MB/s
-[i] downloading: 5.55 MB done, 4.99 MB/s
-[i] downloading: 5.56 MB done, 5.00 MB/s
-[i] downloading: 5.59 MB done, 4.99 MB/s
-[i] downloading: 5.62 MB done, 5.02 MB/s
-[i] downloading: 5.66 MB done, 5.03 MB/s
-[i] downloading: 5.69 MB done, 5.05 MB/s
-[i] downloading: 5.72 MB done, 5.01 MB/s
-[i] downloading: 5.75 MB done, 4.99 MB/s
-[i] downloading: 5.78 MB done, 5.02 MB/s
-[i] downloading: 5.81 MB done, 5.03 MB/s
-[i] downloading: 5.84 MB done, 5.06 MB/s
-[i] downloading: 5.88 MB done, 5.02 MB/s
-[i] downloading: 5.91 MB done, 5.05 MB/s
-[i] downloading: 5.94 MB done, 5.07 MB/s
-[i] downloading: 5.97 MB done, 5.09 MB/s
-[i] downloading: 6.00 MB done, 5.06 MB/s
-[i] downloading: 6.03 MB done, 5.08 MB/s
-[i] downloading: 6.06 MB done, 5.08 MB/s
-[i] downloading: 6.09 MB done, 5.11 MB/s
-[i] downloading: 6.12 MB done, 5.11 MB/s
-[i] downloading: 6.16 MB done, 5.11 MB/s
-[i] downloading: 6.18 MB done, 5.08 MB/s
-[i] downloading: 6.19 MB done, 5.09 MB/s
-[i] downloading: 6.22 MB done, 5.12 MB/s
-[i] downloading: 6.25 MB done, 5.14 MB/s
-[i] downloading: 6.28 MB done, 5.12 MB/s
-[i] downloading: 6.31 MB done, 5.14 MB/s
-[i] downloading: 6.34 MB done, 5.14 MB/s
-[i] downloading: 6.38 MB done, 5.15 MB/s
-[i] downloading: 6.41 MB done, 5.15 MB/s
-[i] downloading: 6.44 MB done, 5.17 MB/s
-[i] downloading: 6.47 MB done, 5.16 MB/s
-[i] downloading: 6.50 MB done, 5.15 MB/s
-[i] downloading: 6.53 MB done, 5.16 MB/s
-[i] downloading: 6.56 MB done, 5.15 MB/s
-[i] downloading: 6.59 MB done, 5.16 MB/s
-[i] downloading: 6.62 MB done, 5.13 MB/s
-[i] downloading: 6.66 MB done, 5.13 MB/s
-[i] downloading: 6.69 MB done, 5.12 MB/s
-[i] downloading: 6.72 MB done, 5.12 MB/s
-[i] downloading: 6.75 MB done, 5.14 MB/s
-[i] downloading: 6.78 MB done, 5.16 MB/s
-[i] downloading: 6.80 MB done, 5.15 MB/s
-[i] downloading: 6.81 MB done, 5.16 MB/s
-[i] downloading: 6.84 MB done, 5.15 MB/s
-[i] downloading: 6.88 MB done, 5.17 MB/s
-[i] downloading: 6.91 MB done, 5.17 MB/s
-[i] downloading: 6.94 MB done, 5.17 MB/s
-[i] downloading: 6.97 MB done, 5.20 MB/s
-[i] downloading: 7.00 MB done, 5.20 MB/s
-[i] downloading: 7.03 MB done, 5.22 MB/s
-[i] downloading: 7.06 MB done, 5.19 MB/s
-[i] downloading: 7.09 MB done, 5.20 MB/s
-[i] downloading: 7.12 MB done, 5.22 MB/s
-[i] downloading: 7.16 MB done, 5.22 MB/s
-[i] downloading: 7.19 MB done, 5.23 MB/s
-[i] downloading: 7.22 MB done, 5.25 MB/s
-[i] downloading: 7.25 MB done, 5.25 MB/s
-[i] downloading: 7.28 MB done, 5.27 MB/s
-[i] downloading: 7.31 MB done, 5.28 MB/s
-[i] downloading: 7.34 MB done, 5.24 MB/s
-[i] downloading: 7.38 MB done, 5.27 MB/s
-[i] downloading: 7.41 MB done, 5.29 MB/s
-[i] downloading: 7.43 MB done, 5.28 MB/s
-[i] downloading: 7.44 MB done, 5.29 MB/s
-[i] downloading: 7.47 MB done, 5.26 MB/s
-[i] downloading: 7.50 MB done, 5.28 MB/s
-[i] downloading: 7.53 MB done, 5.27 MB/s
-[i] downloading: 7.56 MB done, 5.27 MB/s
-[i] downloading: 7.59 MB done, 5.30 MB/s
-[i] downloading: 7.62 MB done, 5.29 MB/s
-[i] downloading: 7.66 MB done, 5.30 MB/s
-[i] downloading: 7.69 MB done, 5.31 MB/s
-[i] downloading: 7.72 MB done, 5.31 MB/s
-[i] downloading: 7.75 MB done, 5.33 MB/s
-[i] downloading: 7.78 MB done, 5.31 MB/s
-[i] downloading: 7.81 MB done, 5.30 MB/s
-[i] downloading: 7.84 MB done, 5.31 MB/s
-[i] downloading: 7.88 MB done, 5.31 MB/s
-[i] downloading: 7.91 MB done, 5.34 MB/s
-[i] downloading: 7.94 MB done, 5.33 MB/s
-[i] downloading: 7.97 MB done, 5.32 MB/s
-[i] downloading: 8.00 MB done, 5.32 MB/s
-[i] downloading: 8.03 MB done, 5.29 MB/s
-[i] downloading: 8.05 MB done, 5.27 MB/s
-[i] downloading: 8.06 MB done, 5.27 MB/s
-[i] downloading: 8.09 MB done, 5.30 MB/s
-[i] downloading: 8.12 MB done, 5.31 MB/s
-[i] downloading: 8.16 MB done, 5.31 MB/s
-[i] downloading: 8.19 MB done, 5.30 MB/s
-[i] downloading: 8.22 MB done, 5.30 MB/s
-[i] downloading: 8.25 MB done, 5.31 MB/s
-[i] downloading: 8.28 MB done, 5.32 MB/s
-[i] downloading: 8.31 MB done, 5.29 MB/s
-[i] downloading: 8.34 MB done, 5.28 MB/s
-[i] downloading: 8.38 MB done, 5.30 MB/s
-[i] downloading: 8.41 MB done, 5.32 MB/s
-[i] downloading: 8.44 MB done, 5.32 MB/s
-[i] downloading: 8.47 MB done, 5.31 MB/s
-[i] downloading: 8.50 MB done, 5.31 MB/s
-[i] downloading: 8.53 MB done, 5.33 MB/s
-[i] downloading: 8.56 MB done, 5.32 MB/s
-[i] downloading: 8.59 MB done, 5.34 MB/s
-[i] downloading: 8.62 MB done, 5.31 MB/s
-[i] downloading: 8.66 MB done, 5.33 MB/s
-[i] downloading: 8.68 MB done, 5.34 MB/s
-[i] downloading: 8.69 MB done, 5.31 MB/s
-[i] downloading: 8.72 MB done, 5.33 MB/s
-[i] downloading: 8.75 MB done, 5.35 MB/s
-[i] downloading: 8.78 MB done, 5.37 MB/s
-[i] downloading: 8.81 MB done, 5.37 MB/s
-[i] downloading: 8.84 MB done, 5.37 MB/s
-[i] downloading: 8.88 MB done, 5.37 MB/s
-[i] downloading: 8.91 MB done, 5.37 MB/s
-[i] downloading: 8.94 MB done, 5.39 MB/s
-[i] downloading: 8.97 MB done, 5.38 MB/s
-[i] downloading: 9.00 MB done, 5.39 MB/s
-[i] downloading: 9.03 MB done, 5.40 MB/s
-[i] downloading: 9.06 MB done, 5.38 MB/s
-[i] downloading: 9.09 MB done, 5.40 MB/s
-[i] downloading: 9.12 MB done, 5.38 MB/s
-[i] downloading: 9.16 MB done, 5.39 MB/s
-[i] downloading: 9.19 MB done, 5.40 MB/s
-[i] downloading: 9.22 MB done, 5.41 MB/s
-[i] downloading: 9.25 MB done, 5.36 MB/s
-[i] downloading: 9.28 MB done, 5.38 MB/s
-[i] downloading: 9.30 MB done, 5.37 MB/s
-[i] downloading: 9.31 MB done, 5.38 MB/s
-[i] downloading: 9.34 MB done, 5.40 MB/s
-[i] downloading: 9.38 MB done, 5.39 MB/s
-[i] downloading: 9.41 MB done, 5.35 MB/s
-[i] downloading: 9.44 MB done, 5.35 MB/s
-[i] downloading: 9.47 MB done, 5.36 MB/s
-[i] downloading: 9.50 MB done, 5.36 MB/s
-[i] downloading: 9.53 MB done, 5.38 MB/s
-[i] downloading: 9.56 MB done, 5.34 MB/s
-[i] downloading: 9.59 MB done, 5.36 MB/s
-[i] downloading: 9.62 MB done, 5.32 MB/s
-[i] downloading: 9.66 MB done, 5.34 MB/s
-[i] downloading: 9.69 MB done, 5.35 MB/s
-[i] downloading: 9.72 MB done, 5.35 MB/s
-[i] downloading: 9.75 MB done, 5.37 MB/s
-[i] downloading: 9.78 MB done, 5.36 MB/s
-[i] downloading: 9.81 MB done, 5.36 MB/s
-[i] downloading: 9.84 MB done, 5.38 MB/s
-[i] downloading: 9.88 MB done, 5.37 MB/s
-[i] downloading: 9.91 MB done, 5.39 MB/s
-[i] downloading: 9.93 MB done, 5.38 MB/s
-[i] downloading: 9.94 MB done, 5.39 MB/s
-[i] downloading: 9.97 MB done, 5.38 MB/s
-[i] downloading: 10.00 MB done, 5.40 MB/s
-[i] downloading: 10.03 MB done, 5.40 MB/s
-[i] downloading: 10.06 MB done, 5.42 MB/s
-[i] downloading: 10.09 MB done, 5.42 MB/s
-[i] downloading: 10.12 MB done, 5.41 MB/s
-[i] downloading: 10.16 MB done, 5.42 MB/s
-[i] downloading: 10.19 MB done, 5.41 MB/s
-[i] downloading: 10.22 MB done, 5.43 MB/s
-[i] downloading: 10.25 MB done, 5.43 MB/s
-[i] downloading: 10.28 MB done, 5.44 MB/s
-[i] downloading: 10.31 MB done, 5.41 MB/s
-[i] downloading: 10.34 MB done, 5.40 MB/s
-[i] downloading: 10.38 MB done, 5.38 MB/s
-[i] downloading: 10.41 MB done, 5.40 MB/s
-[i] downloading: 10.44 MB done, 5.37 MB/s
-[i] downloading: 10.47 MB done, 5.39 MB/s
-[i] downloading: 10.50 MB done, 5.40 MB/s
-[i] downloading: 10.53 MB done, 5.42 MB/s
-[i] downloading: 10.55 MB done, 5.40 MB/s
-[i] downloading: 10.56 MB done, 5.40 MB/s
-[i] downloading: 10.59 MB done, 5.42 MB/s
-[i] downloading: 10.62 MB done, 5.43 MB/s
-[i] downloading: 10.66 MB done, 5.42 MB/s
-[i] downloading: 10.69 MB done, 5.44 MB/s
-[i] downloading: 10.72 MB done, 5.44 MB/s
-[i] downloading: 10.75 MB done, 5.42 MB/s
-[i] downloading: 10.78 MB done, 5.44 MB/s
-[i] downloading: 10.81 MB done, 5.45 MB/s
-[i] downloading: 10.84 MB done, 5.45 MB/s
-[i] downloading: 10.88 MB done, 5.46 MB/s
-[i] downloading: 10.91 MB done, 5.47 MB/s
-[i] downloading: 10.94 MB done, 5.46 MB/s
-[i] downloading: 10.97 MB done, 5.47 MB/s
-[i] downloading: 11.00 MB done, 5.48 MB/s
-[i] downloading: 11.03 MB done, 5.48 MB/s
-[i] downloading: 11.06 MB done, 5.50 MB/s
-[i] downloading: 11.09 MB done, 5.50 MB/s
-[i] downloading: 11.12 MB done, 5.48 MB/s
-[i] downloading: 11.16 MB done, 5.50 MB/s
-[i] downloading: 11.18 MB done, 5.49 MB/s
-[i] downloading: 11.19 MB done, 5.50 MB/s
-[i] downloading: 11.22 MB done, 5.51 MB/s
-[i] downloading: 11.25 MB done, 5.50 MB/s
-[i] downloading: 11.28 MB done, 5.50 MB/s
-[i] downloading: 11.31 MB done, 5.50 MB/s
-[i] downloading: 11.34 MB done, 5.52 MB/s
-[i] downloading: 11.38 MB done, 5.51 MB/s
-[i] downloading: 11.41 MB done, 5.52 MB/s
-[i] downloading: 11.44 MB done, 5.53 MB/s
-[i] downloading: 11.47 MB done, 5.54 MB/s
-[i] downloading: 11.50 MB done, 5.53 MB/s
-[i] downloading: 11.53 MB done, 5.54 MB/s
-[i] downloading: 11.56 MB done, 5.55 MB/s
-[i] downloading: 11.59 MB done, 5.55 MB/s
-[i] downloading: 11.62 MB done, 5.56 MB/s
-[i] downloading: 11.66 MB done, 5.56 MB/s
-[i] downloading: 11.69 MB done, 5.58 MB/s
-[i] downloading: 11.72 MB done, 5.56 MB/s
-[i] downloading: 11.75 MB done, 5.56 MB/s
-[i] downloading: 11.78 MB done, 5.57 MB/s
-[i] downloading: 11.80 MB done, 5.58 MB/s
-[i] downloading: 11.81 MB done, 5.57 MB/s
-[i] downloading: 11.84 MB done, 5.55 MB/s
-[i] downloading: 11.88 MB done, 5.55 MB/s
-[i] downloading: 11.91 MB done, 5.57 MB/s
-[i] downloading: 11.94 MB done, 5.56 MB/s
-[i] downloading: 11.97 MB done, 5.55 MB/s
-[i] downloading: 12.00 MB done, 5.56 MB/s
-[i] downloading: 12.03 MB done, 5.57 MB/s
-[i] downloading: 12.06 MB done, 5.57 MB/s
-[i] downloading: 12.09 MB done, 5.54 MB/s
-[i] downloading: 12.12 MB done, 5.55 MB/s
-[i] downloading: 12.16 MB done, 5.57 MB/s
-[i] downloading: 12.19 MB done, 5.57 MB/s
-[i] downloading: 12.22 MB done, 5.57 MB/s
-[i] downloading: 12.25 MB done, 5.57 MB/s
-[i] downloading: 12.28 MB done, 5.55 MB/s
-[i] downloading: 12.31 MB done, 5.56 MB/s
-[i] downloading: 12.34 MB done, 5.58 MB/s
-[i] downloading: 12.38 MB done, 5.59 MB/s
-[i] downloading: 12.41 MB done, 5.59 MB/s
-[i] downloading: 12.43 MB done, 5.59 MB/s
-[i] downloading: 12.44 MB done, 5.59 MB/s
-[i] downloading: 12.47 MB done, 5.60 MB/s
-[i] downloading: 12.50 MB done, 5.58 MB/s
-[i] downloading: 12.53 MB done, 5.58 MB/s
-[i] downloading: 12.56 MB done, 5.59 MB/s
-[i] downloading: 12.59 MB done, 5.61 MB/s
-[i] downloading: 12.62 MB done, 5.59 MB/s
-[i] downloading: 12.66 MB done, 5.60 MB/s
-[i] downloading: 12.69 MB done, 5.60 MB/s
-[i] downloading: 12.72 MB done, 5.61 MB/s
-[i] downloading: 12.75 MB done, 5.63 MB/s
-[i] downloading: 12.78 MB done, 5.63 MB/s
-[i] downloading: 12.81 MB done, 5.60 MB/s
-[i] downloading: 12.84 MB done, 5.61 MB/s
-[i] downloading: 12.88 MB done, 5.63 MB/s
-[i] downloading: 12.91 MB done, 5.63 MB/s
-[i] downloading: 12.94 MB done, 5.63 MB/s
-[i] downloading: 12.97 MB done, 5.64 MB/s
-[i] downloading: 13.00 MB done, 5.61 MB/s
-[i] downloading: 13.03 MB done, 5.63 MB/s
-[i] downloading: 13.06 MB done, 5.64 MB/s
-[i] downloading: 13.09 MB done, 5.64 MB/s
-[i] downloading: 13.12 MB done, 5.65 MB/s
-[i] downloading: 13.16 MB done, 5.65 MB/s
-[i] downloading: 13.19 MB done, 5.61 MB/s
-[i] downloading: 13.22 MB done, 5.62 MB/s
-[i] downloading: 13.25 MB done, 5.63 MB/s
-[i] downloading: 13.28 MB done, 5.64 MB/s
-[i] downloading: 13.31 MB done, 5.63 MB/s
-[i] downloading: 13.34 MB done, 5.64 MB/s
-[i] downloading: 13.38 MB done, 5.64 MB/s
-[i] downloading: 13.41 MB done, 5.66 MB/s
-[i] downloading: 13.44 MB done, 5.63 MB/s
-[i] downloading: 13.47 MB done, 5.64 MB/s
-[i] downloading: 13.50 MB done, 5.63 MB/s
-[i] downloading: 13.53 MB done, 5.63 MB/s
-[i] downloading: 13.56 MB done, 5.65 MB/s
-[i] downloading: 13.59 MB done, 5.63 MB/s
-[i] downloading: 13.62 MB done, 5.64 MB/s
-[i] downloading: 13.66 MB done, 5.64 MB/s
-[i] downloading: 13.68 MB done, 5.65 MB/s
-[i] downloading: 13.69 MB done, 5.66 MB/s
-[i] downloading: 13.72 MB done, 5.64 MB/s
-[i] downloading: 13.75 MB done, 5.66 MB/s
-[i] downloading: 13.78 MB done, 5.64 MB/s
-[i] downloading: 13.81 MB done, 5.65 MB/s
-[i] downloading: 13.84 MB done, 5.64 MB/s
-[i] downloading: 13.88 MB done, 5.66 MB/s
-[i] downloading: 13.91 MB done, 5.64 MB/s
-[i] downloading: 13.93 MB done, 5.65 MB/s
-[i] downloading: 13.94 MB done, 5.63 MB/s
-[i] downloading: 13.97 MB done, 5.64 MB/s
-[i] downloading: 14.00 MB done, 5.64 MB/s
-[i] downloading: 14.03 MB done, 5.65 MB/s
-[i] downloading: 14.06 MB done, 5.64 MB/s
-[i] downloading: 14.09 MB done, 5.65 MB/s
-[i] downloading: 14.12 MB done, 5.66 MB/s
-[i] downloading: 14.16 MB done, 5.66 MB/s
-[i] downloading: 14.19 MB done, 5.67 MB/s
-[i] downloading: 14.22 MB done, 5.66 MB/s
-[i] downloading: 14.25 MB done, 5.67 MB/s
-[i] downloading: 14.28 MB done, 5.67 MB/s
-[i] downloading: 14.30 MB done, 5.68 MB/s
-[i] downloading: 14.31 MB done, 5.68 MB/s
-[i] downloading: 14.34 MB done, 5.68 MB/s
-[i] downloading: 14.38 MB done, 5.69 MB/s
-[i] downloading: 14.41 MB done, 5.69 MB/s
-[i] downloading: 14.44 MB done, 5.67 MB/s
-[i] downloading: 14.47 MB done, 5.69 MB/s
-[i] downloading: 14.50 MB done, 5.68 MB/s
-[i] downloading: 14.53 MB done, 5.69 MB/s
-[i] downloading: 14.56 MB done, 5.69 MB/s
-[i] downloading: 14.59 MB done, 5.67 MB/s
-[i] downloading: 14.62 MB done, 5.68 MB/s
-[i] downloading: 14.66 MB done, 5.69 MB/s
-[i] downloading: 14.69 MB done, 5.70 MB/s
-[i] downloading: 14.72 MB done, 5.71 MB/s
-[i] downloading: 14.75 MB done, 5.72 MB/s
-[i] downloading: 14.78 MB done, 5.70 MB/s
-[i] downloading: 14.81 MB done, 5.72 MB/s
-[i] downloading: 14.84 MB done, 5.71 MB/s
-[i] downloading: 14.88 MB done, 5.73 MB/s
-[i] downloading: 14.91 MB done, 5.73 MB/s
-[i] downloading: 14.93 MB done, 5.73 MB/s
-[i] downloading: 14.94 MB done, 5.73 MB/s
-[i] downloading: 14.97 MB done, 5.72 MB/s
-[i] downloading: 15.00 MB done, 5.71 MB/s
-[i] downloading: 15.03 MB done, 5.72 MB/s
-[i] downloading: 15.06 MB done, 5.72 MB/s
-[i] downloading: 15.09 MB done, 5.73 MB/s
-[i] downloading: 15.12 MB done, 5.73 MB/s
-[i] downloading: 15.16 MB done, 5.74 MB/s
-[i] downloading: 15.19 MB done, 5.72 MB/s
-[i] downloading: 15.22 MB done, 5.73 MB/s
-[i] downloading: 15.25 MB done, 5.73 MB/s
-[i] downloading: 15.28 MB done, 5.71 MB/s
-[i] downloading: 15.31 MB done, 5.70 MB/s
-[i] downloading: 15.34 MB done, 5.69 MB/s
-[i] downloading: 15.38 MB done, 5.71 MB/s
-[i] downloading: 15.41 MB done, 5.71 MB/s
-[i] downloading: 15.44 MB done, 5.69 MB/s
-[i] downloading: 15.47 MB done, 5.61 MB/s
-[i] downloading: 15.50 MB done, 5.62 MB/s
-[i] downloading: 15.53 MB done, 5.60 MB/s
-[i] downloading: 15.55 MB done, 5.61 MB/s
-[i] downloading: 15.56 MB done, 5.61 MB/s
-[i] downloading: 15.59 MB done, 5.62 MB/s
-[i] downloading: 15.62 MB done, 5.62 MB/s
-[i] downloading: 15.66 MB done, 5.63 MB/s
-[i] downloading: 15.69 MB done, 5.63 MB/s
-[i] downloading: 15.72 MB done, 5.64 MB/s
-[i] downloading: 15.75 MB done, 5.64 MB/s
-[i] downloading: 15.78 MB done, 5.63 MB/s
-[i] downloading: 15.81 MB done, 5.64 MB/s
-[i] downloading: 15.84 MB done, 5.64 MB/s
-[i] downloading: 15.88 MB done, 5.66 MB/s
-[i] downloading: 15.91 MB done, 5.64 MB/s
-[i] downloading: 15.94 MB done, 5.63 MB/s
-[i] downloading: 15.97 MB done, 5.64 MB/s
-[i] downloading: 16.00 MB done, 5.63 MB/s
-[i] downloading: 16.03 MB done, 5.62 MB/s
-[i] downloading: 16.06 MB done, 5.63 MB/s
-[i] downloading: 16.09 MB done, 5.59 MB/s
-[i] downloading: 16.12 MB done, 5.60 MB/s
-[i] downloading: 16.16 MB done, 5.61 MB/s
-[i] downloading: 16.18 MB done, 5.57 MB/s
-[i] downloading: 16.19 MB done, 5.58 MB/s
-[i] downloading: 16.22 MB done, 5.55 MB/s
-[i] downloading: 16.25 MB done, 5.52 MB/s
-[i] downloading: 16.28 MB done, 5.54 MB/s
-[i] downloading: 16.31 MB done, 5.52 MB/s
-[i] downloading: 16.34 MB done, 5.53 MB/s
-[i] downloading: 16.38 MB done, 5.53 MB/s
-[i] downloading: 16.41 MB done, 5.53 MB/s
-[i] downloading: 16.44 MB done, 5.51 MB/s
-[i] downloading: 16.47 MB done, 5.52 MB/s
-[i] downloading: 16.50 MB done, 5.52 MB/s
-[i] downloading: 16.53 MB done, 5.52 MB/s
-[i] downloading: 16.56 MB done, 5.52 MB/s
-[i] downloading: 16.59 MB done, 5.53 MB/s
-[i] downloading: 16.62 MB done, 5.53 MB/s
-[i] downloading: 16.66 MB done, 5.53 MB/s
-[i] downloading: 16.69 MB done, 5.53 MB/s
-[i] downloading: 16.72 MB done, 5.51 MB/s
-[i] downloading: 16.75 MB done, 5.52 MB/s
-[i] downloading: 16.78 MB done, 5.51 MB/s
-[i] downloading: 16.80 MB done, 5.52 MB/s
-[i] downloading: 16.81 MB done, 5.51 MB/s
-[i] downloading: 16.84 MB done, 5.48 MB/s
-[i] downloading: 16.88 MB done, 5.47 MB/s
-[i] downloading: 16.91 MB done, 5.48 MB/s
-[i] downloading: 16.94 MB done, 5.47 MB/s
-[i] downloading: 16.97 MB done, 5.47 MB/s
-[i] downloading: 17.00 MB done, 5.43 MB/s
-[i] downloading: 17.03 MB done, 5.42 MB/s
-[i] downloading: 17.06 MB done, 5.41 MB/s
-[i] downloading: 17.09 MB done, 5.39 MB/s
-[i] downloading: 17.12 MB done, 5.38 MB/s
-[i] downloading: 17.16 MB done, 5.35 MB/s
-[i] downloading: 17.19 MB done, 5.36 MB/s
-[i] downloading: 17.22 MB done, 5.35 MB/s
-[i] downloading: 17.25 MB done, 5.31 MB/s
-[i] downloading: 17.28 MB done, 5.28 MB/s
-[i] downloading: 17.31 MB done, 5.28 MB/s
-[i] downloading: 17.34 MB done, 5.26 MB/s
-[i] downloading: 17.38 MB done, 5.27 MB/s
-[i] downloading: 17.41 MB done, 5.26 MB/s
-[i] downloading: 17.43 MB done, 5.26 MB/s
-[i] downloading: 17.44 MB done, 5.26 MB/s
-[i] downloading: 17.47 MB done, 5.27 MB/s
-[i] downloading: 17.50 MB done, 5.27 MB/s
-[i] downloading: 17.53 MB done, 5.27 MB/s
-[i] downloading: 17.56 MB done, 5.26 MB/s
-[i] downloading: 17.59 MB done, 5.23 MB/s
-[i] downloading: 17.62 MB done, 5.24 MB/s
-[i] downloading: 17.66 MB done, 5.22 MB/s
-[i] downloading: 17.69 MB done, 5.20 MB/s
-[i] downloading: 17.72 MB done, 5.20 MB/s
-[i] downloading: 17.75 MB done, 5.19 MB/s
-[i] downloading: 17.78 MB done, 5.17 MB/s
-[i] downloading: 17.81 MB done, 5.16 MB/s
-[i] downloading: 17.84 MB done, 5.17 MB/s
-[i] downloading: 17.88 MB done, 5.15 MB/s
-[i] downloading: 17.91 MB done, 5.14 MB/s
-[i] downloading: 17.94 MB done, 5.15 MB/s
-[i] downloading: 17.97 MB done, 5.14 MB/s
-[i] downloading: 18.00 MB done, 5.15 MB/s
-[i] downloading: 18.03 MB done, 5.16 MB/s
-[i] downloading: 18.05 MB done, 5.16 MB/s
-[i] downloading: 18.06 MB done, 5.16 MB/s
-[i] downloading: 18.09 MB done, 5.15 MB/s
-[i] downloading: 18.12 MB done, 5.16 MB/s
-[i] downloading: 18.16 MB done, 5.16 MB/s
-[i] downloading: 18.19 MB done, 5.17 MB/s
-[i] downloading: 18.22 MB done, 5.17 MB/s
-[i] downloading: 18.25 MB done, 5.18 MB/s
-[i] downloading: 18.28 MB done, 5.18 MB/s
-[i] downloading: 18.31 MB done, 5.18 MB/s
-[i] downloading: 18.34 MB done, 5.19 MB/s
-[i] downloading: 18.38 MB done, 5.19 MB/s
-[i] downloading: 18.41 MB done, 5.18 MB/s
-[i] downloading: 18.44 MB done, 5.19 MB/s
-[i] downloading: 18.47 MB done, 5.20 MB/s
-[i] downloading: 18.50 MB done, 5.19 MB/s
-[i] downloading: 18.53 MB done, 5.19 MB/s
-[i] downloading: 18.56 MB done, 5.20 MB/s
-[i] downloading: 18.59 MB done, 5.21 MB/s
-[i] downloading: 18.62 MB done, 5.20 MB/s
-[i] downloading: 18.66 MB done, 5.21 MB/s
-[i] downloading: 18.68 MB done, 5.21 MB/s
-[i] downloading: 18.69 MB done, 5.20 MB/s
-[i] downloading: 18.72 MB done, 5.19 MB/s
-[i] downloading: 18.75 MB done, 5.20 MB/s
-[i] downloading: 18.78 MB done, 5.21 MB/s
-[i] downloading: 18.81 MB done, 5.21 MB/s
-[i] downloading: 18.84 MB done, 5.21 MB/s
-[i] downloading: 18.88 MB done, 5.21 MB/s
-[i] downloading: 18.91 MB done, 5.21 MB/s
-[i] downloading: 18.94 MB done, 5.22 MB/s
-[i] downloading: 18.97 MB done, 5.22 MB/s
-[i] downloading: 19.00 MB done, 5.22 MB/s
-[i] downloading: 19.03 MB done, 5.23 MB/s
-[i] downloading: 19.06 MB done, 5.23 MB/s
-[i] downloading: 19.09 MB done, 5.22 MB/s
-[i] downloading: 19.12 MB done, 5.23 MB/s
-[i] downloading: 19.16 MB done, 5.23 MB/s
-[i] downloading: 19.19 MB done, 5.23 MB/s
-[i] downloading: 19.22 MB done, 5.23 MB/s
-[i] downloading: 19.25 MB done, 5.23 MB/s
-[i] downloading: 19.28 MB done, 5.24 MB/s
-[i] downloading: 19.31 MB done, 5.23 MB/s
-[i] downloading: 19.34 MB done, 5.23 MB/s
-[i] downloading: 19.38 MB done, 5.23 MB/s
-[i] downloading: 19.41 MB done, 5.23 MB/s
-[i] downloading: 19.44 MB done, 5.24 MB/s
-[i] downloading: 19.47 MB done, 5.24 MB/s
-[i] downloading: 19.50 MB done, 5.24 MB/s
-[i] downloading: 19.53 MB done, 5.25 MB/s
-[i] downloading: 19.56 MB done, 5.24 MB/s
-[i] downloading: 19.59 MB done, 5.23 MB/s
-[i] downloading: 19.62 MB done, 5.23 MB/s
-[i] downloading: 19.66 MB done, 5.24 MB/s
-[i] downloading: 19.69 MB done, 5.24 MB/s
-[i] downloading: 19.72 MB done, 5.23 MB/s
-[i] downloading: 19.75 MB done, 5.23 MB/s
-[i] downloading: 19.78 MB done, 5.24 MB/s
-[i] downloading: 19.81 MB done, 5.24 MB/s
-[i] downloading: 19.84 MB done, 5.25 MB/s
-[i] downloading: 19.88 MB done, 5.25 MB/s
-[i] downloading: 19.91 MB done, 5.23 MB/s
-[i] downloading: 19.94 MB done, 5.24 MB/s
-[i] downloading: 19.97 MB done, 5.23 MB/s
-[i] downloading: 20.00 MB done, 5.24 MB/s
-[i] downloading: 20.03 MB done, 5.24 MB/s
-[i] downloading: 20.06 MB done, 5.25 MB/s
-[i] downloading: 20.09 MB done, 5.25 MB/s
-[i] downloading: 20.12 MB done, 5.26 MB/s
-[i] downloading: 20.16 MB done, 5.26 MB/s
-[i] downloading: 20.18 MB done, 5.26 MB/s
-[i] downloading: 20.19 MB done, 5.25 MB/s
-[i] downloading: 20.22 MB done, 5.25 MB/s
-[i] downloading: 20.25 MB done, 5.26 MB/s
-[i] downloading: 20.28 MB done, 5.27 MB/s
-[i] downloading: 20.31 MB done, 5.27 MB/s
-[i] downloading: 20.34 MB done, 5.27 MB/s
-[i] downloading: 20.38 MB done, 5.26 MB/s
-[i] downloading: 20.41 MB done, 5.26 MB/s
-[i] downloading: 20.44 MB done, 5.26 MB/s
-[i] downloading: 20.47 MB done, 5.27 MB/s
-[i] downloading: 20.50 MB done, 5.27 MB/s
-[i] downloading: 20.53 MB done, 5.27 MB/s
-[i] downloading: 20.56 MB done, 5.27 MB/s
-[i] downloading: 20.59 MB done, 5.28 MB/s
-[i] downloading: 20.62 MB done, 5.28 MB/s
-[i] downloading: 20.66 MB done, 5.28 MB/s
-[i] downloading: 20.69 MB done, 5.28 MB/s
-[i] downloading: 20.72 MB done, 5.28 MB/s
-[i] downloading: 20.75 MB done, 5.29 MB/s
-[i] downloading: 20.78 MB done, 5.29 MB/s
-[i] downloading: 20.80 MB done, 5.29 MB/s
-[i] downloading: 20.81 MB done, 5.29 MB/s
-[i] downloading: 20.84 MB done, 5.30 MB/s
-[i] downloading: 20.88 MB done, 5.29 MB/s
-[i] downloading: 20.91 MB done, 5.28 MB/s
-[i] downloading: 20.94 MB done, 5.29 MB/s
-[i] downloading: 20.97 MB done, 5.30 MB/s
-[i] downloading: 21.00 MB done, 5.30 MB/s
-[i] downloading: 21.03 MB done, 5.27 MB/s
-[i] downloading: 21.06 MB done, 5.28 MB/s
-[i] downloading: 21.09 MB done, 5.29 MB/s
-[i] downloading: 21.12 MB done, 5.28 MB/s
-[i] downloading: 21.16 MB done, 5.29 MB/s
-[i] downloading: 21.19 MB done, 5.29 MB/s
-[i] downloading: 21.22 MB done, 5.30 MB/s
-[i] downloading: 21.25 MB done, 5.29 MB/s
-[i] downloading: 21.28 MB done, 5.30 MB/s
-[i] downloading: 21.31 MB done, 5.29 MB/s
-[i] downloading: 21.34 MB done, 5.30 MB/s
-[i] downloading: 21.38 MB done, 5.30 MB/s
-[i] downloading: 21.41 MB done, 5.30 MB/s
-[i] downloading: 21.43 MB done, 5.31 MB/s
-[i] downloading: 21.44 MB done, 5.31 MB/s
-[i] downloading: 21.47 MB done, 5.31 MB/s
-[i] downloading: 21.50 MB done, 5.32 MB/s
-[i] downloading: 21.53 MB done, 5.31 MB/s
-[i] downloading: 21.56 MB done, 5.31 MB/s
-[i] downloading: 21.59 MB done, 5.30 MB/s
-[i] downloading: 21.62 MB done, 5.30 MB/s
-[i] downloading: 21.66 MB done, 5.31 MB/s
-[i] downloading: 21.69 MB done, 5.30 MB/s
-[i] downloading: 21.72 MB done, 5.30 MB/s
-[i] downloading: 21.75 MB done, 5.31 MB/s
-[i] downloading: 21.78 MB done, 5.31 MB/s
-[i] downloading: 21.81 MB done, 5.30 MB/s
-[i] downloading: 21.84 MB done, 5.30 MB/s
-[i] downloading: 21.88 MB done, 5.31 MB/s
-[i] downloading: 21.91 MB done, 5.31 MB/s
-[i] downloading: 21.94 MB done, 5.31 MB/s
-[i] downloading: 21.97 MB done, 5.32 MB/s
-[i] downloading: 22.00 MB done, 5.32 MB/s
-[i] downloading: 22.03 MB done, 5.28 MB/s
-[i] downloading: 22.06 MB done, 5.29 MB/s
-[i] downloading: 22.09 MB done, 5.30 MB/s
-[i] downloading: 22.12 MB done, 5.30 MB/s
-[i] downloading: 22.16 MB done, 5.28 MB/s
-[i] downloading: 22.19 MB done, 5.27 MB/s
-[i] downloading: 22.22 MB done, 5.28 MB/s
-[i] downloading: 22.25 MB done, 5.28 MB/s
-[i] downloading: 22.28 MB done, 5.29 MB/s
-[i] downloading: 22.30 MB done, 5.29 MB/s
-[i] downloading: 22.31 MB done, 5.29 MB/s
-[i] downloading: 22.34 MB done, 5.29 MB/s
-[i] downloading: 22.38 MB done, 5.29 MB/s
-[i] downloading: 22.41 MB done, 5.29 MB/s
-[i] downloading: 22.44 MB done, 5.29 MB/s
-[i] downloading: 22.47 MB done, 5.29 MB/s
-[i] downloading: 22.50 MB done, 5.30 MB/s
-[i] downloading: 22.53 MB done, 5.29 MB/s
-[i] downloading: 22.56 MB done, 5.30 MB/s
-[i] downloading: 22.59 MB done, 5.30 MB/s
-[i] downloading: 22.62 MB done, 5.30 MB/s
-[i] downloading: 22.66 MB done, 5.31 MB/s
-[i] downloading: 22.69 MB done, 5.31 MB/s
-[i] downloading: 22.72 MB done, 5.30 MB/s
-[i] downloading: 22.75 MB done, 5.31 MB/s
-[i] downloading: 22.78 MB done, 5.31 MB/s
-[i] downloading: 22.81 MB done, 5.30 MB/s
-[i] downloading: 22.84 MB done, 5.30 MB/s
-[i] downloading: 22.88 MB done, 5.31 MB/s
-[i] downloading: 22.91 MB done, 5.31 MB/s
-[i] downloading: 22.93 MB done, 5.31 MB/s
-[i] downloading: 22.94 MB done, 5.32 MB/s
-[i] downloading: 22.97 MB done, 5.31 MB/s
-[i] downloading: 23.00 MB done, 5.32 MB/s
-[i] downloading: 23.03 MB done, 5.32 MB/s
-[i] downloading: 23.06 MB done, 5.32 MB/s
-[i] downloading: 23.09 MB done, 5.33 MB/s
-[i] downloading: 23.12 MB done, 5.32 MB/s
-[i] downloading: 23.16 MB done, 5.33 MB/s
-[i] downloading: 23.19 MB done, 5.33 MB/s
-[i] downloading: 23.22 MB done, 5.32 MB/s
-[i] downloading: 23.25 MB done, 5.33 MB/s
-[i] downloading: 23.28 MB done, 5.34 MB/s
-[i] downloading: 23.31 MB done, 5.34 MB/s
-[i] downloading: 23.34 MB done, 5.34 MB/s
-[i] downloading: 23.38 MB done, 5.35 MB/s
-[i] downloading: 23.41 MB done, 5.35 MB/s
-[i] downloading: 23.44 MB done, 5.34 MB/s
-[i] downloading: 23.47 MB done, 5.34 MB/s
-[i] downloading: 23.50 MB done, 5.35 MB/s
-[i] downloading: 23.53 MB done, 5.36 MB/s
-[i] downloading: 23.55 MB done, 5.34 MB/s
-[i] downloading: 23.56 MB done, 5.34 MB/s
-[i] downloading: 23.59 MB done, 5.35 MB/s
-[i] downloading: 23.62 MB done, 5.36 MB/s
-[i] downloading: 23.66 MB done, 5.36 MB/s
-[i] downloading: 23.69 MB done, 5.37 MB/s
-[i] downloading: 23.72 MB done, 5.36 MB/s
-[i] downloading: 23.75 MB done, 5.36 MB/s
-[i] downloading: 23.78 MB done, 5.37 MB/s
-[i] downloading: 23.81 MB done, 5.37 MB/s
-[i] downloading: 23.84 MB done, 5.37 MB/s
-[i] downloading: 23.88 MB done, 5.37 MB/s
-[i] downloading: 23.91 MB done, 5.37 MB/s
-[i] downloading: 23.94 MB done, 5.38 MB/s
-[i] downloading: 23.97 MB done, 5.37 MB/s
-[i] downloading: 24.00 MB done, 5.37 MB/s
-[i] downloading: 24.03 MB done, 5.36 MB/s
-[i] downloading: 24.06 MB done, 5.37 MB/s
-[i] downloading: 24.09 MB done, 5.36 MB/s
-[i] downloading: 24.12 MB done, 5.37 MB/s
-[i] downloading: 24.16 MB done, 5.37 MB/s
-[i] downloading: 24.19 MB done, 5.37 MB/s
-[i] downloading: 24.22 MB done, 5.37 MB/s
-[i] downloading: 24.25 MB done, 5.37 MB/s
-[i] downloading: 24.28 MB done, 5.37 MB/s
-[i] downloading: 24.31 MB done, 5.38 MB/s
-[i] downloading: 24.34 MB done, 5.37 MB/s
-[i] downloading: 24.38 MB done, 5.38 MB/s
-[i] downloading: 24.41 MB done, 5.38 MB/s
-[i] downloading: 24.44 MB done, 5.38 MB/s
-[i] downloading: 24.47 MB done, 5.39 MB/s
-[i] downloading: 24.50 MB done, 5.39 MB/s
-[i] downloading: 24.53 MB done, 5.39 MB/s
-[i] downloading: 24.56 MB done, 5.39 MB/s
-[i] downloading: 24.59 MB done, 5.39 MB/s
-[i] downloading: 24.62 MB done, 5.39 MB/s
-[i] downloading: 24.66 MB done, 5.40 MB/s
-[i] downloading: 24.69 MB done, 5.40 MB/s
-[i] downloading: 24.72 MB done, 5.40 MB/s
-[i] downloading: 24.75 MB done, 5.41 MB/s
-[i] downloading: 24.78 MB done, 5.40 MB/s
-[i] downloading: 24.80 MB done, 5.40 MB/s
-[i] downloading: 24.81 MB done, 5.41 MB/s
-[i] downloading: 24.84 MB done, 5.40 MB/s
-[i] downloading: 24.88 MB done, 5.41 MB/s
-[i] downloading: 24.91 MB done, 5.41 MB/s
-[i] downloading: 24.94 MB done, 5.41 MB/s
-[i] downloading: 24.97 MB done, 5.41 MB/s
-[i] downloading: 25.00 MB done, 5.41 MB/s
-[i] downloading: 25.03 MB done, 5.42 MB/s
-[i] downloading: 25.06 MB done, 5.42 MB/s
-[i] downloading: 25.09 MB done, 5.42 MB/s
-[i] downloading: 25.12 MB done, 5.42 MB/s
-[i] downloading: 25.16 MB done, 5.42 MB/s
-[i] downloading: 25.19 MB done, 5.41 MB/s
-[i] downloading: 25.22 MB done, 5.42 MB/s
-[i] downloading: 25.25 MB done, 5.43 MB/s
-[i] downloading: 25.28 MB done, 5.42 MB/s
-[i] downloading: 25.31 MB done, 5.43 MB/s
-[i] downloading: 25.34 MB done, 5.42 MB/s
-[i] downloading: 25.38 MB done, 5.43 MB/s
-[i] downloading: 25.41 MB done, 5.43 MB/s
-[i] downloading: 25.43 MB done, 5.44 MB/s
-[i] downloading: 25.44 MB done, 5.43 MB/s
-[i] downloading: 25.47 MB done, 5.42 MB/s
-[i] downloading: 25.50 MB done, 5.43 MB/s
-[i] downloading: 25.53 MB done, 5.43 MB/s
-[i] downloading: 25.56 MB done, 5.44 MB/s
-[i] downloading: 25.59 MB done, 5.43 MB/s
-[i] downloading: 25.62 MB done, 5.44 MB/s
-[i] downloading: 25.66 MB done, 5.44 MB/s
-[i] downloading: 25.69 MB done, 5.44 MB/s
-[i] downloading: 25.72 MB done, 5.44 MB/s
-[i] downloading: 25.75 MB done, 5.45 MB/s
-[i] downloading: 25.78 MB done, 5.44 MB/s
-[i] downloading: 25.81 MB done, 5.45 MB/s
-[i] downloading: 25.84 MB done, 5.45 MB/s
-[i] downloading: 25.88 MB done, 5.45 MB/s
-[i] downloading: 25.91 MB done, 5.45 MB/s
-[i] downloading: 25.94 MB done, 5.43 MB/s
-[i] downloading: 25.97 MB done, 5.44 MB/s
-[i] downloading: 26.00 MB done, 5.45 MB/s
-[i] downloading: 26.03 MB done, 5.44 MB/s
-[i] downloading: 26.05 MB done, 5.45 MB/s
-[i] downloading: 26.06 MB done, 5.45 MB/s
-[i] downloading: 26.09 MB done, 5.44 MB/s
-[i] downloading: 26.12 MB done, 5.45 MB/s
-[i] downloading: 26.16 MB done, 5.45 MB/s
-[i] downloading: 26.19 MB done, 5.45 MB/s
-[i] downloading: 26.22 MB done, 5.46 MB/s
-[i] downloading: 26.25 MB done, 5.47 MB/s
-[i] downloading: 26.28 MB done, 5.46 MB/s
-[i] downloading: 26.31 MB done, 5.45 MB/s
-[i] downloading: 26.34 MB done, 5.45 MB/s
-[i] downloading: 26.38 MB done, 5.46 MB/s
-[i] downloading: 26.41 MB done, 5.44 MB/s
-[i] downloading: 26.44 MB done, 5.45 MB/s
-[i] downloading: 26.47 MB done, 5.45 MB/s
-[i] downloading: 26.50 MB done, 5.46 MB/s
-[i] downloading: 26.53 MB done, 5.45 MB/s
-[i] downloading: 26.56 MB done, 5.45 MB/s
-[i] downloading: 26.59 MB done, 5.46 MB/s
-[i] downloading: 26.62 MB done, 5.46 MB/s
-[i] downloading: 26.66 MB done, 5.46 MB/s
-[i] downloading: 26.68 MB done, 5.43 MB/s
-[i] downloading: 26.69 MB done, 5.44 MB/s
-[i] downloading: 26.72 MB done, 5.43 MB/s
-[i] downloading: 26.75 MB done, 5.44 MB/s
-[i] downloading: 26.78 MB done, 5.43 MB/s
-[i] downloading: 26.81 MB done, 5.44 MB/s
-[i] downloading: 26.84 MB done, 5.43 MB/s
-[i] downloading: 26.88 MB done, 5.43 MB/s
-[i] downloading: 26.91 MB done, 5.44 MB/s
-[i] downloading: 26.94 MB done, 5.44 MB/s
-[i] downloading: 26.97 MB done, 5.44 MB/s
-[i] downloading: 27.00 MB done, 5.44 MB/s
-[i] downloading: 27.03 MB done, 5.43 MB/s
-[i] downloading: 27.06 MB done, 5.43 MB/s
-[i] downloading: 27.09 MB done, 5.44 MB/s
-[i] downloading: 27.12 MB done, 5.44 MB/s
-[i] downloading: 27.16 MB done, 5.44 MB/s
-[i] downloading: 27.19 MB done, 5.43 MB/s
-[i] downloading: 27.22 MB done, 5.43 MB/s
-[i] downloading: 27.25 MB done, 5.44 MB/s
-[i] downloading: 27.28 MB done, 5.44 MB/s
-[i] downloading: 27.30 MB done, 5.44 MB/s
-[i] downloading: 27.31 MB done, 5.44 MB/s
-[i] downloading: 27.34 MB done, 5.45 MB/s
-[i] downloading: 27.38 MB done, 5.44 MB/s
-[i] downloading: 27.41 MB done, 5.44 MB/s
-[i] downloading: 27.44 MB done, 5.44 MB/s
-[i] downloading: 27.47 MB done, 5.44 MB/s
-[i] downloading: 27.50 MB done, 5.44 MB/s
-[i] downloading: 27.53 MB done, 5.44 MB/s
-[i] downloading: 27.56 MB done, 5.45 MB/s
-[i] downloading: 27.59 MB done, 5.45 MB/s
-[i] downloading: 27.62 MB done, 5.45 MB/s
-[i] downloading: 27.66 MB done, 5.45 MB/s
-[i] downloading: 27.69 MB done, 5.45 MB/s
-[i] downloading: 27.72 MB done, 5.46 MB/s
-[i] downloading: 27.75 MB done, 5.46 MB/s
-[i] downloading: 27.78 MB done, 5.45 MB/s
-[i] downloading: 27.81 MB done, 5.46 MB/s
-[i] downloading: 27.84 MB done, 5.44 MB/s
-[i] downloading: 27.88 MB done, 5.45 MB/s
-[i] downloading: 27.91 MB done, 5.45 MB/s
-[i] downloading: 27.93 MB done, 5.45 MB/s
-[i] downloading: 27.94 MB done, 5.45 MB/s
-[i] downloading: 27.97 MB done, 5.45 MB/s
-[i] downloading: 28.00 MB done, 5.45 MB/s
-[i] downloading: 28.03 MB done, 5.45 MB/s
-[i] downloading: 28.06 MB done, 5.46 MB/s
-[i] downloading: 28.09 MB done, 5.46 MB/s
-[i] downloading: 28.12 MB done, 5.46 MB/s
-[i] downloading: 28.16 MB done, 5.46 MB/s
-[i] downloading: 28.19 MB done, 5.45 MB/s
-[i] downloading: 28.22 MB done, 5.45 MB/s
-[i] downloading: 28.25 MB done, 5.45 MB/s
-[i] downloading: 28.28 MB done, 5.46 MB/s
-[i] downloading: 28.31 MB done, 5.46 MB/s
-[i] downloading: 28.34 MB done, 5.45 MB/s
-[i] downloading: 28.38 MB done, 5.46 MB/s
-[i] downloading: 28.41 MB done, 5.45 MB/s
-[i] downloading: 28.44 MB done, 5.46 MB/s
-[i] downloading: 28.47 MB done, 5.46 MB/s
-[i] downloading: 28.50 MB done, 5.46 MB/s
-[i] downloading: 28.53 MB done, 5.46 MB/s
-[i] downloading: 28.56 MB done, 5.46 MB/s
-[i] downloading: 28.59 MB done, 5.46 MB/s
-[i] downloading: 28.62 MB done, 5.47 MB/s
-[i] downloading: 28.66 MB done, 5.46 MB/s
-[i] downloading: 28.69 MB done, 5.47 MB/s
-[i] downloading: 28.72 MB done, 5.47 MB/s
-[i] downloading: 28.75 MB done, 5.47 MB/s
-[i] downloading: 28.78 MB done, 5.47 MB/s
-[i] downloading: 28.81 MB done, 5.47 MB/s
-[i] downloading: 28.84 MB done, 5.48 MB/s
-[i] downloading: 28.88 MB done, 5.48 MB/s
-[i] downloading: 28.91 MB done, 5.47 MB/s
-[i] downloading: 28.94 MB done, 5.48 MB/s
-[i] downloading: 28.97 MB done, 5.48 MB/s
-[i] downloading: 29.00 MB done, 5.49 MB/s
-[i] downloading: 29.03 MB done, 5.48 MB/s
-[i] downloading: 29.06 MB done, 5.49 MB/s
-[i] downloading: 29.09 MB done, 5.48 MB/s
-[i] downloading: 29.12 MB done, 5.48 MB/s
-[i] downloading: 29.16 MB done, 5.48 MB/s
-[i] downloading: 29.18 MB done, 5.48 MB/s
-[i] downloading: 29.19 MB done, 5.49 MB/s
-[i] downloading: 29.22 MB done, 5.49 MB/s
-[i] downloading: 29.25 MB done, 5.49 MB/s
-[i] downloading: 29.28 MB done, 5.49 MB/s
-[i] downloading: 29.31 MB done, 5.49 MB/s
-[i] downloading: 29.34 MB done, 5.50 MB/s
-[i] downloading: 29.38 MB done, 5.49 MB/s
-[i] downloading: 29.41 MB done, 5.49 MB/s
-[i] downloading: 29.44 MB done, 5.50 MB/s
-[i] downloading: 29.47 MB done, 5.50 MB/s
-[i] downloading: 29.50 MB done, 5.50 MB/s
-[i] downloading: 29.53 MB done, 5.50 MB/s
-[i] downloading: 29.56 MB done, 5.50 MB/s
-[i] downloading: 29.59 MB done, 5.50 MB/s
-[i] downloading: 29.62 MB done, 5.49 MB/s
-[i] downloading: 29.66 MB done, 5.50 MB/s
-[i] downloading: 29.69 MB done, 5.50 MB/s
-[i] downloading: 29.72 MB done, 5.50 MB/s
-[i] downloading: 29.75 MB done, 5.50 MB/s
-[i] downloading: 29.78 MB done, 5.49 MB/s
-[i] downloading: 29.80 MB done, 5.49 MB/s
-[i] downloading: 29.81 MB done, 5.49 MB/s
-[i] downloading: 29.84 MB done, 5.50 MB/s
-[i] downloading: 29.88 MB done, 5.50 MB/s
-[i] downloading: 29.91 MB done, 5.50 MB/s
-[i] downloading: 29.94 MB done, 5.51 MB/s
-[i] downloading: 29.97 MB done, 5.51 MB/s
-[i] downloading: 30.00 MB done, 5.50 MB/s
-[i] downloading: 30.03 MB done, 5.51 MB/s
-[i] downloading: 30.06 MB done, 5.51 MB/s
-[i] downloading: 30.09 MB done, 5.51 MB/s
-[i] downloading: 30.12 MB done, 5.51 MB/s
-[i] downloading: 30.16 MB done, 5.51 MB/s
-[i] downloading: 30.19 MB done, 5.52 MB/s
-[i] downloading: 30.22 MB done, 5.52 MB/s
-[i] downloading: 30.25 MB done, 5.51 MB/s
-[i] downloading: 30.28 MB done, 5.52 MB/s
-[i] downloading: 30.31 MB done, 5.52 MB/s
-[i] downloading: 30.34 MB done, 5.52 MB/s
-[i] downloading: 30.38 MB done, 5.52 MB/s
-[i] downloading: 30.41 MB done, 5.51 MB/s
-[i] downloading: 30.44 MB done, 5.51 MB/s
-[i] downloading: 30.47 MB done, 5.52 MB/s
-[i] downloading: 30.50 MB done, 5.52 MB/s
-[i] downloading: 30.53 MB done, 5.52 MB/s
-[i] downloading: 30.56 MB done, 5.51 MB/s
-[i] downloading: 30.59 MB done, 5.52 MB/s
-[i] downloading: 30.62 MB done, 5.52 MB/s
-[i] downloading: 30.66 MB done, 5.51 MB/s
-[i] downloading: 30.68 MB done, 5.52 MB/s
-[i] downloading: 30.69 MB done, 5.52 MB/s
-[i] downloading: 30.72 MB done, 5.52 MB/s
-[i] downloading: 30.75 MB done, 5.53 MB/s
-[i] downloading: 30.78 MB done, 5.53 MB/s
-[i] downloading: 30.81 MB done, 5.52 MB/s
-[i] downloading: 30.84 MB done, 5.53 MB/s
-[i] downloading: 30.88 MB done, 5.52 MB/s
-[i] downloading: 30.91 MB done, 5.53 MB/s
-[i] downloading: 30.94 MB done, 5.53 MB/s
-[i] downloading: 30.97 MB done, 5.53 MB/s
-[i] downloading: 31.00 MB done, 5.53 MB/s
-[i] downloading: 31.03 MB done, 5.53 MB/s
-[i] downloading: 31.06 MB done, 5.53 MB/s
-[i] downloading: 31.09 MB done, 5.54 MB/s
-[i] downloading: 31.12 MB done, 5.53 MB/s
-[i] downloading: 31.16 MB done, 5.53 MB/s
-[i] downloading: 31.19 MB done, 5.54 MB/s
-[i] downloading: 31.22 MB done, 5.53 MB/s
-[i] downloading: 31.25 MB done, 5.54 MB/s
-[i] downloading: 31.28 MB done, 5.54 MB/s
-[i] downloading: 31.30 MB done, 5.54 MB/s
-[i] downloading: 31.31 MB done, 5.54 MB/s
-[i] downloading: 31.34 MB done, 5.54 MB/s
-[i] downloading: 31.38 MB done, 5.55 MB/s
-[i] downloading: 31.41 MB done, 5.54 MB/s
-[i] downloading: 31.44 MB done, 5.54 MB/s
-[i] downloading: 31.47 MB done, 5.55 MB/s
-[i] downloading: 31.50 MB done, 5.53 MB/s
-[i] downloading: 31.53 MB done, 5.53 MB/s
-[i] downloading: 31.56 MB done, 5.52 MB/s
-[i] downloading: 31.59 MB done, 5.51 MB/s
-[i] downloading: 31.62 MB done, 5.52 MB/s
-[i] downloading: 31.66 MB done, 5.50 MB/s
-[i] downloading: 31.69 MB done, 5.51 MB/s
-[i] downloading: 31.72 MB done, 5.51 MB/s
-[i] downloading: 31.75 MB done, 5.51 MB/s
-[i] downloading: 31.78 MB done, 5.51 MB/s
-[i] downloading: 31.81 MB done, 5.51 MB/s
-[i] downloading: 31.84 MB done, 5.51 MB/s
-[i] downloading: 31.88 MB done, 5.51 MB/s
-[i] downloading: 31.91 MB done, 5.50 MB/s
-[i] downloading: 31.93 MB done, 5.50 MB/s
-[i] downloading: 31.94 MB done, 5.50 MB/s
-[i] downloading: 31.97 MB done, 5.50 MB/s
-[i] downloading: 32.00 MB done, 5.50 MB/s
-[i] downloading: 32.03 MB done, 5.50 MB/s
-[i] downloading: 32.06 MB done, 5.50 MB/s
-[i] downloading: 32.09 MB done, 5.49 MB/s
-[i] downloading: 32.12 MB done, 5.49 MB/s
-[i] downloading: 32.16 MB done, 5.50 MB/s
-[i] downloading: 32.19 MB done, 5.51 MB/s
-[i] downloading: 32.22 MB done, 5.50 MB/s
-[i] downloading: 32.25 MB done, 5.49 MB/s
-[i] downloading: 32.28 MB done, 5.50 MB/s
-[i] downloading: 32.31 MB done, 5.50 MB/s
-[i] downloading: 32.34 MB done, 5.49 MB/s
-[i] downloading: 32.38 MB done, 5.50 MB/s
-[i] downloading: 32.41 MB done, 5.50 MB/s
-[i] downloading: 32.44 MB done, 5.50 MB/s
-[i] downloading: 32.47 MB done, 5.51 MB/s
-[i] downloading: 32.50 MB done, 5.50 MB/s
-[i] downloading: 32.53 MB done, 5.51 MB/s
-[i] downloading: 32.55 MB done, 5.51 MB/s
-[i] downloading: 32.56 MB done, 5.50 MB/s
-[i] downloading: 32.59 MB done, 5.50 MB/s
-[i] downloading: 32.62 MB done, 5.50 MB/s
-[i] downloading: 32.66 MB done, 5.50 MB/s
-[i] downloading: 32.69 MB done, 5.51 MB/s
-[i] downloading: 32.72 MB done, 5.51 MB/s
-[i] downloading: 32.75 MB done, 5.51 MB/s
-[i] downloading: 32.78 MB done, 5.51 MB/s
-[i] downloading: 32.81 MB done, 5.51 MB/s
-[i] downloading: 32.84 MB done, 5.51 MB/s
-[i] downloading: 32.88 MB done, 5.51 MB/s
-[i] downloading: 32.91 MB done, 5.52 MB/s
-[i] downloading: 32.94 MB done, 5.52 MB/s
-[i] downloading: 32.97 MB done, 5.52 MB/s
-[i] downloading: 33.00 MB done, 5.52 MB/s
-[i] downloading: 33.03 MB done, 5.52 MB/s
-[i] downloading: 33.06 MB done, 5.52 MB/s
-[i] downloading: 33.09 MB done, 5.52 MB/s
-[i] downloading: 33.12 MB done, 5.52 MB/s
-[i] downloading: 33.16 MB done, 5.52 MB/s
-[i] downloading: 33.18 MB done, 5.52 MB/s
-[i] downloading: 33.19 MB done, 5.53 MB/s
-[i] downloading: 33.22 MB done, 5.52 MB/s
-[i] downloading: 33.25 MB done, 5.52 MB/s
-[i] downloading: 33.28 MB done, 5.53 MB/s
-[i] downloading: 33.31 MB done, 5.53 MB/s
-[i] downloading: 33.34 MB done, 5.53 MB/s
-[i] downloading: 33.38 MB done, 5.52 MB/s
-[i] downloading: 33.41 MB done, 5.52 MB/s
-[i] downloading: 33.44 MB done, 5.52 MB/s
-[i] downloading: 33.47 MB done, 5.52 MB/s
-[i] downloading: 33.50 MB done, 5.51 MB/s
-[i] downloading: 33.53 MB done, 5.52 MB/s
-[i] downloading: 33.56 MB done, 5.52 MB/s
-[i] downloading: 33.59 MB done, 5.52 MB/s
-[i] downloading: 33.62 MB done, 5.52 MB/s
-[i] downloading: 33.66 MB done, 5.52 MB/s
-[i] downloading: 33.69 MB done, 5.52 MB/s
-[i] downloading: 33.72 MB done, 5.52 MB/s
-[i] downloading: 33.75 MB done, 5.51 MB/s
-[i] downloading: 33.78 MB done, 5.51 MB/s
-[i] downloading: 33.81 MB done, 5.52 MB/s
-[i] downloading: 33.84 MB done, 5.52 MB/s
-[i] downloading: 33.88 MB done, 5.52 MB/s
-[i] downloading: 33.91 MB done, 5.52 MB/s
-[i] downloading: 33.94 MB done, 5.52 MB/s
-[i] downloading: 33.97 MB done, 5.52 MB/s
-[i] downloading: 34.00 MB done, 5.52 MB/s
-[i] downloading: 34.03 MB done, 5.52 MB/s
-[i] downloading: 34.06 MB done, 5.53 MB/s
-[i] downloading: 34.09 MB done, 5.53 MB/s
-[i] downloading: 34.12 MB done, 5.53 MB/s
-[i] downloading: 34.16 MB done, 5.53 MB/s
-[i] downloading: 34.19 MB done, 5.52 MB/s
-[i] downloading: 34.22 MB done, 5.53 MB/s
-[i] downloading: 34.25 MB done, 5.53 MB/s
-[i] downloading: 34.28 MB done, 5.52 MB/s
-[i] downloading: 34.30 MB done, 5.53 MB/s
-[i] downloading: 34.31 MB done, 5.53 MB/s
-[i] downloading: 34.34 MB done, 5.53 MB/s
-[i] downloading: 34.38 MB done, 5.53 MB/s
-[i] downloading: 34.41 MB done, 5.53 MB/s
-[i] downloading: 34.44 MB done, 5.53 MB/s
-[i] downloading: 34.47 MB done, 5.53 MB/s
-[i] downloading: 34.50 MB done, 5.53 MB/s
-[i] downloading: 34.53 MB done, 5.54 MB/s
-[i] downloading: 34.56 MB done, 5.53 MB/s
-[i] downloading: 34.59 MB done, 5.54 MB/s
-[i] downloading: 34.62 MB done, 5.53 MB/s
-[i] downloading: 34.66 MB done, 5.53 MB/s
-[i] downloading: 34.69 MB done, 5.54 MB/s
-[i] downloading: 34.72 MB done, 5.54 MB/s
-[i] downloading: 34.75 MB done, 5.54 MB/s
-[i] downloading: 34.78 MB done, 5.54 MB/s
-[i] downloading: 34.81 MB done, 5.55 MB/s
-[i] downloading: 34.84 MB done, 5.55 MB/s
-[i] downloading: 34.88 MB done, 5.55 MB/s
-[i] downloading: 34.91 MB done, 5.55 MB/s
-[i] downloading: 34.93 MB done, 5.56 MB/s
-[i] downloading: 34.94 MB done, 5.55 MB/s
-[i] downloading: 34.97 MB done, 5.56 MB/s
-[i] downloading: 35.00 MB done, 5.55 MB/s
-[i] downloading: 35.03 MB done, 5.55 MB/s
-[i] downloading: 35.06 MB done, 5.56 MB/s
-[i] downloading: 35.09 MB done, 5.56 MB/s
-[i] downloading: 35.12 MB done, 5.56 MB/s
-[i] downloading: 35.16 MB done, 5.57 MB/s
-[i] downloading: 35.19 MB done, 5.55 MB/s
-[i] downloading: 35.22 MB done, 5.56 MB/s
-[i] downloading: 35.25 MB done, 5.55 MB/s
-[i] downloading: 35.28 MB done, 5.55 MB/s
-[i] downloading: 35.31 MB done, 5.56 MB/s
-[i] downloading: 35.34 MB done, 5.56 MB/s
-[i] downloading: 35.38 MB done, 5.56 MB/s
-[i] downloading: 35.41 MB done, 5.56 MB/s
-[i] downloading: 35.44 MB done, 5.57 MB/s
-[i] downloading: 35.47 MB done, 5.56 MB/s
-[i] downloading: 35.50 MB done, 5.56 MB/s
-[i] downloading: 35.53 MB done, 5.57 MB/s
-[i] downloading: 35.55 MB done, 5.57 MB/s
-[i] downloading: 35.56 MB done, 5.57 MB/s
-[i] downloading: 35.59 MB done, 5.57 MB/s
-[i] downloading: 35.62 MB done, 5.57 MB/s
-[i] downloading: 35.66 MB done, 5.57 MB/s
-[i] downloading: 35.69 MB done, 5.57 MB/s
-[i] downloading: 35.72 MB done, 5.57 MB/s
-[i] downloading: 35.75 MB done, 5.58 MB/s
-[i] downloading: 35.78 MB done, 5.58 MB/s
-[i] downloading: 35.81 MB done, 5.58 MB/s
-[i] downloading: 35.84 MB done, 5.58 MB/s
-[i] downloading: 35.88 MB done, 5.58 MB/s
-[i] downloading: 35.91 MB done, 5.58 MB/s
-[i] downloading: 35.94 MB done, 5.58 MB/s
-[i] downloading: 35.97 MB done, 5.58 MB/s
-[i] downloading: 36.00 MB done, 5.58 MB/s
-[i] downloading: 36.03 MB done, 5.59 MB/s
-[i] downloading: 36.06 MB done, 5.58 MB/s
-[i] downloading: 36.09 MB done, 5.59 MB/s
-[i] downloading: 36.12 MB done, 5.59 MB/s
-[i] downloading: 36.16 MB done, 5.59 MB/s
-[i] downloading: 36.18 MB done, 5.59 MB/s
-[i] downloading: 36.19 MB done, 5.59 MB/s
-[i] downloading: 36.22 MB done, 5.59 MB/s
-[i] downloading: 36.25 MB done, 5.59 MB/s
-[i] downloading: 36.28 MB done, 5.59 MB/s
-[i] downloading: 36.31 MB done, 5.57 MB/s
-[i] downloading: 36.34 MB done, 5.57 MB/s
-[i] downloading: 36.38 MB done, 5.58 MB/s
-[i] downloading: 36.41 MB done, 5.58 MB/s
-[i] downloading: 36.44 MB done, 5.59 MB/s
-[i] downloading: 36.47 MB done, 5.58 MB/s
-[i] downloading: 36.50 MB done, 5.58 MB/s
-[i] downloading: 36.53 MB done, 5.58 MB/s
-[i] downloading: 36.56 MB done, 5.59 MB/s
-[i] downloading: 36.59 MB done, 5.58 MB/s
-[i] downloading: 36.62 MB done, 5.58 MB/s
-[i] downloading: 36.66 MB done, 5.59 MB/s
-[i] downloading: 36.69 MB done, 5.59 MB/s
-[i] downloading: 36.72 MB done, 5.59 MB/s
-[i] downloading: 36.75 MB done, 5.59 MB/s
-[i] downloading: 36.78 MB done, 5.59 MB/s
-[i] downloading: 36.81 MB done, 5.59 MB/s
-[i] downloading: 36.84 MB done, 5.60 MB/s
-[i] downloading: 36.88 MB done, 5.59 MB/s
-[i] downloading: 36.91 MB done, 5.60 MB/s
-[i] downloading: 36.94 MB done, 5.60 MB/s
-[i] downloading: 36.97 MB done, 5.60 MB/s
-[i] downloading: 37.00 MB done, 5.59 MB/s
-[i] downloading: 37.03 MB done, 5.59 MB/s
-[i] downloading: 37.05 MB done, 5.60 MB/s
-[i] downloading: 37.06 MB done, 5.60 MB/s
-[i] downloading: 37.09 MB done, 5.59 MB/s
-[i] downloading: 37.12 MB done, 5.59 MB/s
-[i] downloading: 37.16 MB done, 5.60 MB/s
-[i] downloading: 37.19 MB done, 5.60 MB/s
-[i] downloading: 37.22 MB done, 5.60 MB/s
-[i] downloading: 37.25 MB done, 5.59 MB/s
-[i] downloading: 37.28 MB done, 5.60 MB/s
-[i] downloading: 37.31 MB done, 5.60 MB/s
-[i] downloading: 37.34 MB done, 5.60 MB/s
-[i] downloading: 37.38 MB done, 5.61 MB/s
-[i] downloading: 37.41 MB done, 5.61 MB/s
-[i] downloading: 37.44 MB done, 5.60 MB/s
-[i] downloading: 37.47 MB done, 5.60 MB/s
-[i] downloading: 37.50 MB done, 5.61 MB/s
-[i] downloading: 37.53 MB done, 5.61 MB/s
-[i] downloading: 37.56 MB done, 5.61 MB/s
-[i] downloading: 37.59 MB done, 5.61 MB/s
-[i] downloading: 37.62 MB done, 5.61 MB/s
-[i] downloading: 37.66 MB done, 5.61 MB/s
-[i] downloading: 37.69 MB done, 5.62 MB/s
-[i] downloading: 37.72 MB done, 5.61 MB/s
-[i] downloading: 37.75 MB done, 5.62 MB/s
-[i] downloading: 37.78 MB done, 5.62 MB/s
-[i] downloading: 37.81 MB done, 5.62 MB/s
-[i] downloading: 37.84 MB done, 5.61 MB/s
-[i] downloading: 37.88 MB done, 5.62 MB/s
-[i] downloading: 37.91 MB done, 5.62 MB/s
-[i] downloading: 37.93 MB done, 5.61 MB/s
-[i] downloading: 37.94 MB done, 5.61 MB/s
-[i] downloading: 37.97 MB done, 5.62 MB/s
-[i] downloading: 38.00 MB done, 5.61 MB/s
-[i] downloading: 38.03 MB done, 5.61 MB/s
-[i] downloading: 38.06 MB done, 5.61 MB/s
-[i] downloading: 38.09 MB done, 5.61 MB/s
-[i] downloading: 38.12 MB done, 5.62 MB/s
-[i] downloading: 38.16 MB done, 5.62 MB/s
-[i] downloading: 38.19 MB done, 5.62 MB/s
-[i] downloading: 38.22 MB done, 5.62 MB/s
-[i] downloading: 38.25 MB done, 5.62 MB/s
-[i] downloading: 38.28 MB done, 5.63 MB/s
-[i] downloading: 38.31 MB done, 5.61 MB/s
-[i] downloading: 38.34 MB done, 5.61 MB/s
-[i] downloading: 38.38 MB done, 5.62 MB/s
-[i] downloading: 38.41 MB done, 5.61 MB/s
-[i] downloading: 38.44 MB done, 5.61 MB/s
-[i] downloading: 38.47 MB done, 5.61 MB/s
-[i] downloading: 38.50 MB done, 5.61 MB/s
-[i] downloading: 38.53 MB done, 5.60 MB/s
-[i] downloading: 38.55 MB done, 5.60 MB/s
-[i] downloading: 38.56 MB done, 5.60 MB/s
-[i] downloading: 38.59 MB done, 5.61 MB/s
-[i] downloading: 38.62 MB done, 5.60 MB/s
-[i] downloading: 38.66 MB done, 5.61 MB/s
-[i] downloading: 38.69 MB done, 5.61 MB/s
-[i] downloading: 38.72 MB done, 5.61 MB/s
-[i] downloading: 38.75 MB done, 5.61 MB/s
-[i] downloading: 38.78 MB done, 5.61 MB/s
-[i] downloading: 38.81 MB done, 5.61 MB/s
-[i] downloading: 38.84 MB done, 5.60 MB/s
-[i] downloading: 38.88 MB done, 5.61 MB/s
-[i] downloading: 38.91 MB done, 5.61 MB/s
-[i] downloading: 38.94 MB done, 5.61 MB/s
-[i] downloading: 38.97 MB done, 5.61 MB/s
-[i] downloading: 39.00 MB done, 5.62 MB/s
-[i] downloading: 39.03 MB done, 5.62 MB/s
-[i] downloading: 39.06 MB done, 5.62 MB/s
-[i] downloading: 39.09 MB done, 5.62 MB/s
-[i] downloading: 39.12 MB done, 5.62 MB/s
-[i] downloading: 39.16 MB done, 5.61 MB/s
-[i] downloading: 39.18 MB done, 5.61 MB/s
-[i] downloading: 39.19 MB done, 5.61 MB/s
-[i] downloading: 39.22 MB done, 5.61 MB/s
-[i] downloading: 39.25 MB done, 5.61 MB/s
-[i] downloading: 39.28 MB done, 5.62 MB/s
-[i] downloading: 39.31 MB done, 5.62 MB/s
-[i] downloading: 39.34 MB done, 5.62 MB/s
-[i] downloading: 39.38 MB done, 5.62 MB/s
-[i] downloading: 39.41 MB done, 5.62 MB/s
-[i] downloading: 39.44 MB done, 5.62 MB/s
-[i] downloading: 39.47 MB done, 5.62 MB/s
-[i] downloading: 39.50 MB done, 5.62 MB/s
-[i] downloading: 39.53 MB done, 5.62 MB/s
-[i] downloading: 39.56 MB done, 5.62 MB/s
-[i] downloading: 39.59 MB done, 5.62 MB/s
-[i] downloading: 39.62 MB done, 5.62 MB/s
-[i] downloading: 39.66 MB done, 5.61 MB/s
-[i] downloading: 39.69 MB done, 5.62 MB/s
-[i] downloading: 39.72 MB done, 5.61 MB/s
-[i] downloading: 39.75 MB done, 5.62 MB/s
-[i] downloading: 39.78 MB done, 5.61 MB/s
-[i] downloading: 39.80 MB done, 5.61 MB/s
-[i] downloading: 39.81 MB done, 5.62 MB/s
-[i] downloading: 39.84 MB done, 5.62 MB/s
-[i] downloading: 39.88 MB done, 5.62 MB/s
-[i] downloading: 39.91 MB done, 5.62 MB/s
-[i] downloading: 39.94 MB done, 5.62 MB/s
-[i] downloading: 39.97 MB done, 5.62 MB/s
-[i] downloading: 40.00 MB done, 5.61 MB/s
-[i] downloading: 40.03 MB done, 5.62 MB/s
-[i] downloading: 40.06 MB done, 5.62 MB/s
-[i] downloading: 40.09 MB done, 5.62 MB/s
-[i] downloading: 40.12 MB done, 5.63 MB/s
-[i] downloading: 40.16 MB done, 5.63 MB/s
-[i] downloading: 40.19 MB done, 5.62 MB/s
-[i] downloading: 40.22 MB done, 5.63 MB/s
-[i] downloading: 40.25 MB done, 5.63 MB/s
-[i] downloading: 40.28 MB done, 5.63 MB/s
-[i] downloading: 40.31 MB done, 5.62 MB/s
-[i] downloading: 40.34 MB done, 5.63 MB/s
-[i] downloading: 40.38 MB done, 5.62 MB/s
-[i] downloading: 40.41 MB done, 5.62 MB/s
-[i] downloading: 40.43 MB done, 5.63 MB/s
-[i] downloading: 40.44 MB done, 5.62 MB/s
-[i] downloading: 40.47 MB done, 5.62 MB/s
-[i] downloading: 40.50 MB done, 5.62 MB/s
-[i] downloading: 40.53 MB done, 5.62 MB/s
-[i] downloading: 40.56 MB done, 5.62 MB/s
-[i] downloading: 40.59 MB done, 5.62 MB/s
-[i] downloading: 40.62 MB done, 5.62 MB/s
-[i] downloading: 40.66 MB done, 5.61 MB/s
-[i] downloading: 40.69 MB done, 5.60 MB/s
-[i] downloading: 40.72 MB done, 5.61 MB/s
-[i] downloading: 40.75 MB done, 5.61 MB/s
-[i] downloading: 40.78 MB done, 5.60 MB/s
-[i] downloading: 40.81 MB done, 5.60 MB/s
-[i] downloading: 40.84 MB done, 5.60 MB/s
-[i] downloading: 40.88 MB done, 5.60 MB/s
-[i] downloading: 40.91 MB done, 5.60 MB/s
-[i] downloading: 40.94 MB done, 5.57 MB/s
-[i] downloading: 40.97 MB done, 5.57 MB/s
-[i] downloading: 41.00 MB done, 5.57 MB/s
-[i] downloading: 41.03 MB done, 5.57 MB/s
-[i] downloading: 41.05 MB done, 5.58 MB/s
-[i] downloading: 41.06 MB done, 5.57 MB/s
-[i] downloading: 41.09 MB done, 5.57 MB/s
-[i] downloading: 41.12 MB done, 5.57 MB/s
-[i] downloading: 41.16 MB done, 5.56 MB/s
-[i] downloading: 41.19 MB done, 5.56 MB/s
-[i] downloading: 41.22 MB done, 5.54 MB/s
-[i] downloading: 41.25 MB done, 5.54 MB/s
-[i] downloading: 41.28 MB done, 5.53 MB/s
-[i] downloading: 41.31 MB done, 5.54 MB/s
-[i] downloading: 41.34 MB done, 5.53 MB/s
-[i] downloading: 41.38 MB done, 5.51 MB/s
-[i] downloading: 41.41 MB done, 5.51 MB/s
-[i] downloading: 41.44 MB done, 5.52 MB/s
-[i] downloading: 41.47 MB done, 5.51 MB/s
-[i] downloading: 41.50 MB done, 5.51 MB/s
-[i] downloading: 41.53 MB done, 5.51 MB/s
-[i] downloading: 41.56 MB done, 5.52 MB/s
-[i] downloading: 41.59 MB done, 5.51 MB/s
-[i] downloading: 41.62 MB done, 5.50 MB/s
-[i] downloading: 41.66 MB done, 5.51 MB/s
-[i] downloading: 41.68 MB done, 5.51 MB/s
-[i] downloading: 41.69 MB done, 5.51 MB/s
-[i] downloading: 41.72 MB done, 5.51 MB/s
-[i] downloading: 41.75 MB done, 5.51 MB/s
-[i] downloading: 41.78 MB done, 5.51 MB/s
-[i] downloading: 41.81 MB done, 5.52 MB/s
-[i] downloading: 41.84 MB done, 5.51 MB/s
-[i] downloading: 41.88 MB done, 5.51 MB/s
-[i] downloading: 41.91 MB done, 5.51 MB/s
-[i] downloading: 41.94 MB done, 5.51 MB/s
-[i] downloading: 41.97 MB done, 5.51 MB/s
-[i] downloading: 42.00 MB done, 5.51 MB/s
-[i] downloading: 42.03 MB done, 5.51 MB/s
-[i] downloading: 42.06 MB done, 5.47 MB/s
-[i] downloading: 42.09 MB done, 5.47 MB/s
-[i] downloading: 42.12 MB done, 5.47 MB/s
-[i] downloading: 42.16 MB done, 5.47 MB/s
-[i] downloading: 42.19 MB done, 5.47 MB/s
-[i] downloading: 42.22 MB done, 5.47 MB/s
-[i] downloading: 42.25 MB done, 5.46 MB/s
-[i] downloading: 42.28 MB done, 5.46 MB/s
-[i] downloading: 42.31 MB done, 5.44 MB/s
-[i] downloading: 42.34 MB done, 5.44 MB/s
-[i] downloading: 42.38 MB done, 5.44 MB/s
-[i] downloading: 42.41 MB done, 5.44 MB/s
-[i] downloading: 42.44 MB done, 5.44 MB/s
-[i] downloading: 42.47 MB done, 5.43 MB/s
-[i] downloading: 42.50 MB done, 5.44 MB/s
-[i] downloading: 42.53 MB done, 5.40 MB/s
-[i] downloading: 42.56 MB done, 5.41 MB/s
-[i] downloading: 42.59 MB done, 5.41 MB/s
-[i] downloading: 42.62 MB done, 5.40 MB/s
-[i] downloading: 42.66 MB done, 5.41 MB/s
-[i] downloading: 42.69 MB done, 5.41 MB/s
-[i] downloading: 42.72 MB done, 5.41 MB/s
-[i] downloading: 42.75 MB done, 5.42 MB/s
-[i] downloading: 42.78 MB done, 5.41 MB/s
-[i] downloading: 42.80 MB done, 5.41 MB/s
-[i] downloading: 42.81 MB done, 5.41 MB/s
-[i] downloading: 42.84 MB done, 5.42 MB/s
-[i] downloading: 42.88 MB done, 5.42 MB/s
-[i] downloading: 42.91 MB done, 5.42 MB/s
-[i] downloading: 42.94 MB done, 5.42 MB/s
-[i] downloading: 42.97 MB done, 5.42 MB/s
-[i] downloading: 43.00 MB done, 5.42 MB/s
-[i] downloading: 43.03 MB done, 5.42 MB/s
-[i] downloading: 43.06 MB done, 5.42 MB/s
-[i] downloading: 43.09 MB done, 5.42 MB/s
-[i] downloading: 43.12 MB done, 5.43 MB/s
-[i] downloading: 43.16 MB done, 5.43 MB/s
-[i] downloading: 43.19 MB done, 5.42 MB/s
-[i] downloading: 43.22 MB done, 5.42 MB/s
-[i] downloading: 43.25 MB done, 5.43 MB/s
-[i] downloading: 43.28 MB done, 5.42 MB/s
-[i] downloading: 43.31 MB done, 5.41 MB/s
-[i] downloading: 43.34 MB done, 5.42 MB/s
-[i] downloading: 43.38 MB done, 5.42 MB/s
-[i] downloading: 43.41 MB done, 5.41 MB/s
-[i] downloading: 43.44 MB done, 5.42 MB/s
-[i] downloading: 43.47 MB done, 5.42 MB/s
-[i] downloading: 43.50 MB done, 5.42 MB/s
-[i] downloading: 43.53 MB done, 5.42 MB/s
-[i] downloading: 43.56 MB done, 5.41 MB/s
-[i] downloading: 43.59 MB done, 5.42 MB/s
-[i] downloading: 43.62 MB done, 5.42 MB/s
-[i] downloading: 43.66 MB done, 5.42 MB/s
-[i] downloading: 43.69 MB done, 5.42 MB/s
-[i] downloading: 43.72 MB done, 5.42 MB/s
-[i] downloading: 43.75 MB done, 5.40 MB/s
-[i] downloading: 43.78 MB done, 5.40 MB/s
-[i] downloading: 43.80 MB done, 5.39 MB/s
-[i] downloading: 43.81 MB done, 5.39 MB/s
-[i] downloading: 43.84 MB done, 5.40 MB/s
-[i] downloading: 43.88 MB done, 5.40 MB/s
-[i] downloading: 43.91 MB done, 5.40 MB/s
-[i] downloading: 43.94 MB done, 5.40 MB/s
-[i] downloading: 43.97 MB done, 5.41 MB/s
-[i] downloading: 44.00 MB done, 5.40 MB/s
-[i] downloading: 44.03 MB done, 5.41 MB/s
-[i] downloading: 44.06 MB done, 5.40 MB/s
-[i] downloading: 44.09 MB done, 5.39 MB/s
-[i] downloading: 44.12 MB done, 5.40 MB/s
-[i] downloading: 44.16 MB done, 5.40 MB/s
-[i] downloading: 44.19 MB done, 5.39 MB/s
-[i] downloading: 44.22 MB done, 5.40 MB/s
-[i] downloading: 44.25 MB done, 5.40 MB/s
-[i] downloading: 44.28 MB done, 5.40 MB/s
-[i] downloading: 44.31 MB done, 5.40 MB/s
-[i] downloading: 44.34 MB done, 5.40 MB/s
-[i] downloading: 44.38 MB done, 5.40 MB/s
-[i] downloading: 44.41 MB done, 5.40 MB/s
-[i] downloading: 44.44 MB done, 5.40 MB/s
-[i] downloading: 44.47 MB done, 5.41 MB/s
-[i] downloading: 44.50 MB done, 5.41 MB/s
-[i] downloading: 44.53 MB done, 5.41 MB/s
-[i] downloading: 44.56 MB done, 5.41 MB/s
-[i] downloading: 44.59 MB done, 5.41 MB/s
-[i] downloading: 44.62 MB done, 5.41 MB/s
-[i] downloading: 44.66 MB done, 5.41 MB/s
-[i] downloading: 44.69 MB done, 5.41 MB/s
-[i] downloading: 44.72 MB done, 5.41 MB/s
-[i] downloading: 44.75 MB done, 5.41 MB/s
-[i] downloading: 44.78 MB done, 5.41 MB/s
-[i] downloading: 44.81 MB done, 5.41 MB/s
-[i] downloading: 44.84 MB done, 5.41 MB/s
-[i] downloading: 44.88 MB done, 5.41 MB/s
-[i] downloading: 44.91 MB done, 5.42 MB/s
-[i] downloading: 44.94 MB done, 5.41 MB/s
-[i] downloading: 44.97 MB done, 5.42 MB/s
-[i] downloading: 45.00 MB done, 5.42 MB/s
-[i] downloading: 45.03 MB done, 5.42 MB/s
-[i] downloading: 45.06 MB done, 5.42 MB/s
-[i] downloading: 45.09 MB done, 5.42 MB/s
-[i] downloading: 45.12 MB done, 5.42 MB/s
-[i] downloading: 45.16 MB done, 5.42 MB/s
-[i] downloading: 45.19 MB done, 5.43 MB/s
-[i] downloading: 45.22 MB done, 5.43 MB/s
-[i] downloading: 45.25 MB done, 5.42 MB/s
-[i] downloading: 45.28 MB done, 5.42 MB/s
-[i] downloading: 45.31 MB done, 5.42 MB/s
-[i] downloading: 45.34 MB done, 5.42 MB/s
-[i] downloading: 45.38 MB done, 5.43 MB/s
-[i] downloading: 45.41 MB done, 5.42 MB/s
-[i] downloading: 45.44 MB done, 5.41 MB/s
-[i] downloading: 45.47 MB done, 5.42 MB/s
-[i] downloading: 45.50 MB done, 5.42 MB/s
-[i] downloading: 45.53 MB done, 5.42 MB/s
-[i] downloading: 45.56 MB done, 5.42 MB/s
-[i] downloading: 45.59 MB done, 5.43 MB/s
-[i] downloading: 45.62 MB done, 5.43 MB/s
-[i] downloading: 45.66 MB done, 5.43 MB/s
-[i] downloading: 45.69 MB done, 5.43 MB/s
-[i] downloading: 45.72 MB done, 5.43 MB/s
-[i] downloading: 45.75 MB done, 5.43 MB/s
-[i] downloading: 45.78 MB done, 5.43 MB/s
-[i] downloading: 45.81 MB done, 5.43 MB/s
-[i] downloading: 45.84 MB done, 5.43 MB/s
-[i] downloading: 45.88 MB done, 5.43 MB/s
-[i] downloading: 45.91 MB done, 5.43 MB/s
-[i] downloading: 45.93 MB done, 5.43 MB/s
-[i] downloading: 45.94 MB done, 5.43 MB/s
-[i] downloading: 45.97 MB done, 5.44 MB/s
-[i] downloading: 46.00 MB done, 5.44 MB/s
-[i] downloading: 46.03 MB done, 5.44 MB/s
-[i] downloading: 46.06 MB done, 5.43 MB/s
-[i] downloading: 46.09 MB done, 5.43 MB/s
-[i] downloading: 46.12 MB done, 5.44 MB/s
-[i] downloading: 46.16 MB done, 5.44 MB/s
-[i] downloading: 46.19 MB done, 5.44 MB/s
-[i] downloading: 46.22 MB done, 5.44 MB/s
-[i] downloading: 46.25 MB done, 5.44 MB/s
-[i] downloading: 46.28 MB done, 5.44 MB/s
-[i] downloading: 46.31 MB done, 5.44 MB/s
-[i] downloading: 46.34 MB done, 5.44 MB/s
-[i] downloading: 46.38 MB done, 5.45 MB/s
-[i] downloading: 46.41 MB done, 5.44 MB/s
-[i] downloading: 46.44 MB done, 5.45 MB/s
-[i] downloading: 46.47 MB done, 5.45 MB/s
-[i] downloading: 46.50 MB done, 5.45 MB/s
-[i] downloading: 46.53 MB done, 5.45 MB/s
-[i] downloading: 46.55 MB done, 5.45 MB/s
-[i] downloading: 46.56 MB done, 5.45 MB/s
-[i] downloading: 46.59 MB done, 5.45 MB/s
-[i] downloading: 46.62 MB done, 5.45 MB/s
-[i] downloading: 46.66 MB done, 5.45 MB/s
-[i] downloading: 46.69 MB done, 5.45 MB/s
-[i] downloading: 46.72 MB done, 5.46 MB/s
-[i] downloading: 46.75 MB done, 5.46 MB/s
-[i] downloading: 46.78 MB done, 5.45 MB/s
-[i] downloading: 46.81 MB done, 5.45 MB/s
-[i] downloading: 46.84 MB done, 5.45 MB/s
-[i] downloading: 46.88 MB done, 5.45 MB/s
-[i] downloading: 46.91 MB done, 5.45 MB/s
-[i] downloading: 46.94 MB done, 5.45 MB/s
-[i] downloading: 46.97 MB done, 5.45 MB/s
-[i] downloading: 47.00 MB done, 5.45 MB/s
-[i] downloading: 47.03 MB done, 5.45 MB/s
-[i] downloading: 47.06 MB done, 5.45 MB/s
-[i] downloading: 47.09 MB done, 5.45 MB/s
-[i] downloading: 47.12 MB done, 5.46 MB/s
-[i] downloading: 47.16 MB done, 5.45 MB/s
-[i] downloading: 47.18 MB done, 5.46 MB/s
-[i] downloading: 47.19 MB done, 5.46 MB/s
-[i] downloading: 47.22 MB done, 5.46 MB/s
-[i] downloading: 47.25 MB done, 5.46 MB/s
-[i] downloading: 47.28 MB done, 5.46 MB/s
-[i] downloading: 47.31 MB done, 5.46 MB/s
-[i] downloading: 47.34 MB done, 5.46 MB/s
-[i] downloading: 47.38 MB done, 5.46 MB/s
-[i] downloading: 47.41 MB done, 5.46 MB/s
-[i] downloading: 47.44 MB done, 5.46 MB/s
-[i] downloading: 47.47 MB done, 5.47 MB/s
-[i] downloading: 47.50 MB done, 5.46 MB/s
-[i] downloading: 47.53 MB done, 5.46 MB/s
-[i] downloading: 47.56 MB done, 5.46 MB/s
-[i] downloading: 47.59 MB done, 5.46 MB/s
-[i] downloading: 47.62 MB done, 5.46 MB/s
-[i] downloading: 47.66 MB done, 5.47 MB/s
-[i] downloading: 47.69 MB done, 5.47 MB/s
-[i] downloading: 47.72 MB done, 5.47 MB/s
-[i] downloading: 47.75 MB done, 5.47 MB/s
-[i] downloading: 47.78 MB done, 5.46 MB/s
-[i] downloading: 47.80 MB done, 5.47 MB/s
-[i] downloading: 47.81 MB done, 5.47 MB/s
-[i] downloading: 47.84 MB done, 5.47 MB/s
-[i] downloading: 47.88 MB done, 5.47 MB/s
-[i] downloading: 47.91 MB done, 5.47 MB/s
-[i] downloading: 47.94 MB done, 5.47 MB/s
-[i] downloading: 47.97 MB done, 5.47 MB/s
-[i] downloading: 48.00 MB done, 5.48 MB/s
-[i] downloading: 48.03 MB done, 5.48 MB/s
-[i] downloading: 48.06 MB done, 5.48 MB/s
-[i] downloading: 48.09 MB done, 5.47 MB/s
-[i] downloading: 48.12 MB done, 5.48 MB/s
-[i] downloading: 48.16 MB done, 5.48 MB/s
-[i] downloading: 48.19 MB done, 5.48 MB/s
-[i] downloading: 48.22 MB done, 5.48 MB/s
-[i] downloading: 48.25 MB done, 5.48 MB/s
-[i] downloading: 48.28 MB done, 5.48 MB/s
-[i] downloading: 48.31 MB done, 5.47 MB/s
-[i] downloading: 48.34 MB done, 5.48 MB/s
-[i] downloading: 48.38 MB done, 5.48 MB/s
-[i] downloading: 48.41 MB done, 5.49 MB/s
-[i] downloading: 48.43 MB done, 5.48 MB/s
-[i] downloading: 48.44 MB done, 5.48 MB/s
-[i] downloading: 48.47 MB done, 5.49 MB/s
-[i] downloading: 48.50 MB done, 5.49 MB/s
-[i] downloading: 48.53 MB done, 5.48 MB/s
-[i] downloading: 48.56 MB done, 5.49 MB/s
-[i] downloading: 48.59 MB done, 5.49 MB/s
-[i] downloading: 48.62 MB done, 5.47 MB/s
-[i] downloading: 48.66 MB done, 5.47 MB/s
-[i] downloading: 48.69 MB done, 5.47 MB/s
-[i] downloading: 48.72 MB done, 5.46 MB/s
-[i] downloading: 48.75 MB done, 5.47 MB/s
-[i] downloading: 48.78 MB done, 5.47 MB/s
-[i] downloading: 48.81 MB done, 5.47 MB/s
-[i] downloading: 48.84 MB done, 5.47 MB/s
-[i] downloading: 48.88 MB done, 5.46 MB/s
-[i] downloading: 48.91 MB done, 5.46 MB/s
-[i] downloading: 48.94 MB done, 5.46 MB/s
-[i] downloading: 48.97 MB done, 5.46 MB/s
-[i] downloading: 49.00 MB done, 5.46 MB/s
-[i] downloading: 49.03 MB done, 5.46 MB/s
-[i] downloading: 49.05 MB done, 5.45 MB/s
-[i] downloading: 49.06 MB done, 5.45 MB/s
-[i] downloading: 49.09 MB done, 5.45 MB/s
-[i] downloading: 49.12 MB done, 5.45 MB/s
-[i] downloading: 49.16 MB done, 5.44 MB/s
-[i] downloading: 49.19 MB done, 5.45 MB/s
-[i] downloading: 49.22 MB done, 5.45 MB/s
-[i] downloading: 49.25 MB done, 5.44 MB/s
-[i] downloading: 49.28 MB done, 5.44 MB/s
-[i] downloading: 49.31 MB done, 5.44 MB/s
-[i] downloading: 49.34 MB done, 5.43 MB/s
-[i] downloading: 49.38 MB done, 5.43 MB/s
-[i] downloading: 49.41 MB done, 5.44 MB/s
-[i] downloading: 49.44 MB done, 5.42 MB/s
-[i] downloading: 49.47 MB done, 5.42 MB/s
-[i] downloading: 49.50 MB done, 5.42 MB/s
-[i] downloading: 49.53 MB done, 5.42 MB/s
-[i] downloading: 49.56 MB done, 5.42 MB/s
-[i] downloading: 49.59 MB done, 5.41 MB/s
-[i] downloading: 49.62 MB done, 5.41 MB/s
-[i] downloading: 49.66 MB done, 5.41 MB/s
-[i] downloading: 49.68 MB done, 5.41 MB/s
-[i] downloading: 49.69 MB done, 5.41 MB/s
-[i] downloading: 49.72 MB done, 5.40 MB/s
-[i] downloading: 49.75 MB done, 5.40 MB/s
-[i] downloading: 49.78 MB done, 5.40 MB/s
-[i] downloading: 49.81 MB done, 5.39 MB/s
-[i] downloading: 49.84 MB done, 5.39 MB/s
-[i] downloading: 49.88 MB done, 5.39 MB/s
-[i] downloading: 49.91 MB done, 5.39 MB/s
-[i] downloading: 49.94 MB done, 5.40 MB/s
-[i] downloading: 49.97 MB done, 5.39 MB/s
-[i] downloading: 50.00 MB done, 5.39 MB/s
-[i] downloading: 50.03 MB done, 5.39 MB/s
-[i] downloading: 50.06 MB done, 5.39 MB/s
-[i] downloading: 50.09 MB done, 5.39 MB/s
-[i] downloading: 50.12 MB done, 5.38 MB/s
-[i] downloading: 50.16 MB done, 5.37 MB/s
-[i] downloading: 50.19 MB done, 5.37 MB/s
-[i] downloading: 50.22 MB done, 5.37 MB/s
-[i] downloading: 50.25 MB done, 5.36 MB/s
-[i] downloading: 50.28 MB done, 5.36 MB/s
-[i] downloading: 50.30 MB done, 5.36 MB/s
-[i] downloading: 50.31 MB done, 5.36 MB/s
-[i] downloading: 50.34 MB done, 5.35 MB/s
-[i] downloading: 50.38 MB done, 5.34 MB/s
-[i] downloading: 50.41 MB done, 5.33 MB/s
-[i] downloading: 50.44 MB done, 5.33 MB/s
-[i] downloading: 50.47 MB done, 5.33 MB/s
-[i] downloading: 50.50 MB done, 5.33 MB/s
-[i] downloading: 50.53 MB done, 5.33 MB/s
-[i] downloading: 50.56 MB done, 5.33 MB/s
-[i] downloading: 50.59 MB done, 5.33 MB/s
-[i] downloading: 50.62 MB done, 5.33 MB/s
-[i] downloading: 50.66 MB done, 5.33 MB/s
-[i] downloading: 50.69 MB done, 5.34 MB/s
-[i] downloading: 50.72 MB done, 5.34 MB/s
-[i] downloading: 50.75 MB done, 5.33 MB/s
-[i] downloading: 50.78 MB done, 5.34 MB/s
-[i] downloading: 50.81 MB done, 5.34 MB/s
-[i] downloading: 50.84 MB done, 5.33 MB/s
-[i] downloading: 50.88 MB done, 5.34 MB/s
-[i] downloading: 50.91 MB done, 5.34 MB/s
-[i] downloading: 50.93 MB done, 5.34 MB/s
-[i] downloading: 50.94 MB done, 5.34 MB/s
-[i] downloading: 50.97 MB done, 5.34 MB/s
-[i] downloading: 51.00 MB done, 5.34 MB/s
-[i] downloading: 51.03 MB done, 5.34 MB/s
-[i] downloading: 51.06 MB done, 5.34 MB/s
-[i] downloading: 51.09 MB done, 5.34 MB/s
-[i] downloading: 51.12 MB done, 5.35 MB/s
-[i] downloading: 51.16 MB done, 5.34 MB/s
-[i] downloading: 51.19 MB done, 5.34 MB/s
-[i] downloading: 51.22 MB done, 5.35 MB/s
-[i] downloading: 51.25 MB done, 5.35 MB/s
-[i] downloading: 51.28 MB done, 5.35 MB/s
-[i] downloading: 51.31 MB done, 5.35 MB/s
-[i] downloading: 51.34 MB done, 5.35 MB/s
-[i] downloading: 51.38 MB done, 5.35 MB/s
-[i] downloading: 51.41 MB done, 5.35 MB/s
-[i] downloading: 51.44 MB done, 5.35 MB/s
-[i] downloading: 51.47 MB done, 5.35 MB/s
-[i] downloading: 51.50 MB done, 5.35 MB/s
-[i] downloading: 51.53 MB done, 5.35 MB/s
-[i] downloading: 51.55 MB done, 5.34 MB/s
-[i] downloading: 51.56 MB done, 5.35 MB/s
-[i] downloading: 51.59 MB done, 5.35 MB/s
-[i] downloading: 51.62 MB done, 5.35 MB/s
-[i] downloading: 51.66 MB done, 5.35 MB/s
-[i] downloading: 51.69 MB done, 5.35 MB/s
-[i] downloading: 51.72 MB done, 5.35 MB/s
-[i] downloading: 51.75 MB done, 5.35 MB/s
-[i] downloading: 51.78 MB done, 5.35 MB/s
-[i] downloading: 51.81 MB done, 5.35 MB/s
-[i] downloading: 51.84 MB done, 5.35 MB/s
-[i] downloading: 51.88 MB done, 5.35 MB/s
-[i] downloading: 51.91 MB done, 5.35 MB/s
-[i] downloading: 51.94 MB done, 5.35 MB/s
-[i] downloading: 51.97 MB done, 5.34 MB/s
-[i] downloading: 52.00 MB done, 5.35 MB/s
-[i] downloading: 52.03 MB done, 5.35 MB/s
-[i] downloading: 52.06 MB done, 5.35 MB/s
-[i] downloading: 52.09 MB done, 5.35 MB/s
-[i] downloading: 52.12 MB done, 5.35 MB/s
-[i] downloading: 52.16 MB done, 5.35 MB/s
-[i] downloading: 52.18 MB done, 5.35 MB/s
-[i] downloading: 52.19 MB done, 5.35 MB/s
-[i] downloading: 52.22 MB done, 5.35 MB/s
-[i] downloading: 52.25 MB done, 5.36 MB/s
-[i] downloading: 52.28 MB done, 5.36 MB/s
-
-[i] done dl build 69 (52.28 MB)
-[i] manifest.json written
-[i] Welcome to MiniMC! (Ready in ~9.9s)
-[i] mkdir /minecraft
-[i] get latest version
-[i] using version 1.21.11
-[i] get latest build
-[i] requested function rejected, because version 1.21.11 (build 69) is already up-to-date (manifest-check)
-[i] Welcome to MiniMC! (Ready in ~0.1s)
