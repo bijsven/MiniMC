@@ -37,28 +37,17 @@ cd MiniMC
 ```
 
 2. Configure Docker Compose to your needs. By default:
-
 * Minecraft server exposed on `25565`
 * Web interface exposed on `8080`
 * Server files stored in `/minecraft` locally and internally within the container
 
 3. Start MiniMC:
-
 ```bash
 docker-compose up
 ```
 
 4. Access the web interface via `http://localhost:8080` and manage your server easily.
-
-##### Recommended: Make your web server available
-5. Enter your host terminal and type:
-```bash
-docker compose exec -it minimc ssh -T -R 80:localhost:8080 nokey@localhost.run
-```
-7. Use the url to access your MiniMC web instant.
-8. Then, to make your minecraft server easily accessable I recommand you use [playit.gg's plugin](https://playit.gg/download/plugins)
-9. Follow the instructions from the logs
-10. Your done! Enjoy your instant!
+5. Enjoy!
 
 #### Usage Notes
 
